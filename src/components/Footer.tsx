@@ -130,7 +130,7 @@ export function Footer() {
         {/* Bottom Footer Bar */}
         <div className="pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] uppercase tracking-widest text-slate-500">
           <div>
-            &copy; {new Date().getFullYear()} Regent Group, Crafted with intent. Mumbai, India - Est. 2014
+            &copy; {new Date().getFullYear()} Regent Group. Mumbai, India - Est. 2014
           </div>
           <div className="flex gap-6">
             <Link href="/privacy-policy" className="hover:text-[#D4AF37] transition-colors duration-300">

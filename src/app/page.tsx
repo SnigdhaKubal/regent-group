@@ -9,14 +9,56 @@ const heroSlides = [
   {
     id: 1,
     title: "Representing Global Automotive Excellence",
-    description: "With over two decades of automotive expertise, we are the trusted dealership network for premium global brands across the Mumbai and Thane regions.",
-    image: "https://images.unsplash.com/photo-1614200187524-dc4b892acf16?q=80&w=2000&auto=format&fit=crop"
+    description: "With over two decades of automotive expertise, we are the trusted dealership network for premium global brands.",
+    image: "/heroHonda.webp"
   },
   {
     id: 2,
     title: "Driving the Future of Mobility",
-    description: "Experience unparalleled service, cutting-edge vehicles, and a commitment to customer satisfaction at every Regent Group touch point.",
-    image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=2000&auto=format&fit=crop"
+    description: "Experience unparalleled service and a commitment to customer satisfaction at every Regent Group touch point.",
+    image: "/heroToyota.webp"
+  },
+  {
+    id: 3,
+    title: "MG Windsor Excellence",
+    description: "Discover the latest innovations from MG Motors, delivering premium SUVs and electric vehicles.",
+    image: "/heroWindsor.webp"
+  },
+  {
+    id: 4,
+    title: "Skoda Elegance",
+    description: "Experience the brilliant engineering and elegant design of Skoda vehicles at Regent Skoda.",
+    image: "/heroSkoda.webp"
+  },
+  {
+    id: 5,
+    title: "Tata Motors Innovation",
+    description: "Explore the new Tata Curvv, setting new benchmarks in performance and style.",
+    image: "/heroCurvv.webp"
+  },
+  {
+    id: 6,
+    title: "MG Blackstorm Edition",
+    description: "Make a bold statement with the exclusive MG Blackstorm editions, available now.",
+    image: "/heroBlackstorm.webp"
+  },
+  {
+    id: 7,
+    title: "Toyota Taisor",
+    description: "Drive home the new Toyota Taisor, redefining urban mobility and comfort.",
+    image: "/heroTaisor.webp"
+  },
+  {
+    id: 8,
+    title: "MG Astor Apex",
+    description: "Experience the pinnacle of AI-driven technology with the new MG Astor Apex.",
+    image: "/heroApex.webp"
+  },
+  {
+    id: 9,
+    title: "Premium Showcases",
+    description: "Celebrate your new journey with unforgettable VIP deliveries across all Regent Group brands.",
+    image: "/heroRed.webp"
   }
 ];
 
@@ -72,6 +114,7 @@ export default function Home() {
               index === currentSlide ? "opacity-100 z-10" : "opacity-0 z-0"
             }`}
           >
+            {/* Background Image */}
             <div
               className="absolute inset-0 bg-cover bg-center opacity-40 mix-blend-overlay"
               style={{ backgroundImage: `url(${slide.image})` }}
@@ -80,9 +123,7 @@ export default function Home() {
             
             {/* Dynamic Text Content per Slide */}
             <div className="relative z-20 w-full px-4 sm:px-6 lg:px-12 flex flex-col items-center text-center">
-              <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold tracking-tight text-white leading-tight max-w-4xl mb-6">
-                {slide.title}
-              </h1>
+
 
               <p className="text-lg md:text-xl text-slate-300 max-w-2xl font-sans leading-relaxed mb-10">
                 {slide.description}
@@ -144,8 +185,8 @@ export default function Home() {
               { number: "Multiple", label: "Locations" },
               { number: "Thousands", label: "Customer Interactions" }
             ].map((stat, i) => (
-              <div 
-                key={i} 
+              <div
+                key={i}
                 className="group flex flex-col items-center justify-center p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-accent/30 hover:shadow-md hover:bg-white transition-all duration-300"
               >
                 <div className="text-4xl md:text-5xl font-heading font-bold text-accent mb-3 group-hover:scale-105 transition-transform duration-300">
@@ -224,7 +265,7 @@ export default function Home() {
                 link: "#about-us"
               }
             ].map((service, i) => (
-              <article 
+              <article
                 key={i}
                 className="group flex flex-col bg-white border border-slate-200 hover:border-slate-300 rounded-xl p-8 shadow-sm hover:shadow-md transition-all duration-300"
               >
@@ -237,12 +278,7 @@ export default function Home() {
                 <p className="text-slate-600 leading-relaxed mb-8 flex-grow">
                   {service.desc}
                 </p>
-                <Link 
-                  href={service.link}
-                  className="inline-flex items-center text-sm font-semibold text-primary group-hover:text-accent transition-colors mt-auto"
-                >
-                  Learn More <ArrowRight className="ml-2 h-4 w-4" />
-                </Link>
+
               </article>
             ))}
           </div>
@@ -253,14 +289,14 @@ export default function Home() {
       <section id="about-us" className="py-12 md:py-16 bg-slate-50 border-b border-border/50" style={{ scrollMarginTop: "100px" }}>
         <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start">
-            
+
             {/* Left: Company Story */}
             <div className="flex flex-col">
               <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary tracking-tight mb-6">
                 About Regent Group
               </h2>
               <div className="w-16 h-1 bg-accent mb-10"></div>
-              
+
               <div className="space-y-6 text-slate-600 font-sans text-lg leading-relaxed mb-10">
                 <p>
                   Regent Group was established to redefine automotive retail and customer experience. As a premier automotive dealership network, we operate strategically across the Mumbai and Thane regions, representing some of the world's most trusted manufacturers.
@@ -270,12 +306,7 @@ export default function Home() {
                 </p>
               </div>
 
-              <Link 
-                href="#about-us" 
-                className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-primary hover:bg-secondary transition-colors w-max"
-              >
-                Learn More
-              </Link>
+
             </div>
 
             {/* Right: Key Milestones Timeline */}
@@ -283,7 +314,7 @@ export default function Home() {
               <h3 className="text-2xl font-heading font-bold text-primary mb-10">
                 Key Milestones
               </h3>
-              
+
               <div className="relative border-l-2 border-slate-200 ml-3 space-y-10">
                 {[
                   { year: "2014", event: "Journey begins" },
@@ -295,7 +326,7 @@ export default function Home() {
                   <div key={i} className="relative pl-8">
                     {/* Timeline Node */}
                     <div className="absolute -left-[9px] top-1.5 w-4 h-4 rounded-full bg-white border-4 border-accent"></div>
-                    
+
                     <div className="font-heading font-bold text-xl text-primary mb-1">
                       {milestone.year}
                     </div>
@@ -339,7 +370,7 @@ export default function Home() {
                 icon: Target
               }
             ].map((feature, i) => (
-              <div 
+              <div
                 key={i}
                 className="flex flex-col bg-slate-50 border border-slate-100 rounded-xl p-8 hover:border-slate-200 transition-colors duration-300"
               >
