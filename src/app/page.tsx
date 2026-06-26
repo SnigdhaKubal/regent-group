@@ -79,7 +79,7 @@ export default function Home() {
             />
             
             {/* Dynamic Text Content per Slide */}
-            <div className="relative z-20 container mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center">
+            <div className="relative z-20 w-full px-4 sm:px-6 lg:px-12 flex flex-col items-center text-center">
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold tracking-tight text-white leading-tight max-w-4xl mb-6">
                 {slide.title}
               </h1>
@@ -126,7 +126,7 @@ export default function Home() {
 
       {/* Trust Statistics Section */}
       <section className="py-12 md:py-16 bg-white border-b border-border/50 relative z-10">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+        <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6">
               Trusted By Leading Automotive Brands
@@ -139,7 +139,7 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { number: "20+", label: "Years Experience" },
+              { number: "10+", label: "Years Experience" },
               { number: "4+", label: "Global Automotive Brands" },
               { number: "Multiple", label: "Locations" },
               { number: "Thousands", label: "Customer Interactions" }
@@ -162,7 +162,7 @@ export default function Home() {
 
       {/* 2. Interactive Brand Dealerships Banner */}
       <section id="brands" className="py-12 bg-muted/30 border-y border-border/50">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+        <div className="w-full px-4 sm:px-6 lg:px-12">
           <h2 className="text-center text-3xl md:text-4xl font-heading font-bold text-primary tracking-tight uppercase mb-12">
             OUR DEALERSHIPS
           </h2>
@@ -189,7 +189,7 @@ export default function Home() {
 
       {/* 3. What We Do */}
       <section className="py-12 md:py-16 bg-white border-b border-border/50">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+        <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
               What We Do
@@ -221,7 +221,7 @@ export default function Home() {
                 title: "Customer Experience Management",
                 desc: "Crafting memorable journeys and fostering lifelong loyalty for every client.",
                 icon: Users,
-                link: "/about-us"
+                link: "#about-us"
               }
             ].map((service, i) => (
               <article 
@@ -250,8 +250,8 @@ export default function Home() {
       </section>
 
       {/* 4. About Regent Group */}
-      <section className="py-12 md:py-16 bg-slate-50 border-b border-border/50">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+      <section id="about-us" className="py-12 md:py-16 bg-slate-50 border-b border-border/50" style={{ scrollMarginTop: "100px" }}>
+        <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start">
             
             {/* Left: Company Story */}
@@ -271,7 +271,7 @@ export default function Home() {
               </div>
 
               <Link 
-                href="/about-us" 
+                href="#about-us" 
                 className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-primary hover:bg-secondary transition-colors w-max"
               >
                 Learn More
@@ -313,7 +313,7 @@ export default function Home() {
 
       {/* 5. Why Regent Group */}
       <section className="py-12 md:py-16 bg-white border-b border-border/50">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+        <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
               Why Regent ?
@@ -325,7 +325,7 @@ export default function Home() {
             {[
               {
                 title: "Industry Expertise",
-                desc: "With over two decades in the automotive sector, our deep market knowledge and industry foresight allow us to navigate complexities and consistently deliver superior results.",
+                desc: "With over a decade in the automotive sector, our deep market knowledge and industry foresight allow us to navigate complexities and consistently deliver superior results.",
                 icon: Briefcase
               },
               {
@@ -360,7 +360,7 @@ export default function Home() {
 
       {/* 6. Corporate Leadership (Principals) */}
       <section className="py-12 md:py-16 bg-white relative border-b border-border/50">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+        <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary uppercase tracking-widest mb-6">
               Our Leadership

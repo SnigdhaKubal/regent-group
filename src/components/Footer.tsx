@@ -30,12 +30,9 @@ export function Footer() {
         {/* Top Header Section */}
         <div className="border-t border-b border-[#D4AF37]/30 py-10 mb-16 text-center relative">
 
-          <h2 className="font-heading text-4xl md:text-5xl lg:text-7xl font-normal text-white mb-6 tracking-wide">
+          <h2 className="font-heading text-4xl md:text-5xl lg:text-7xl font-normal text-white mb-6 tracking-wide pt-6">
             THE REGENT GROUP DISPATCH
           </h2>
-          <div className="text-slate-400 text-xs italic tracking-widest font-serif">
-            "Excellence in Automotive Retail. — A trusted premium dealership."
-          </div>
 
           <div className="hidden md:flex absolute right-4 top-4 border border-[#D4AF37]/30 rounded-full px-4 py-1.5 text-[10px] text-[#D4AF37] uppercase tracking-widest items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37]"></span>
@@ -44,7 +41,7 @@ export function Footer() {
         </div>
 
         {/* 4 Column Layout */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-0 lg:divide-x divide-white/10 border-b border-white/10 pb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 lg:gap-0 lg:divide-x divide-white/10 border-b border-white/10 pb-16">
 
           {/* Column 1: About */}
           <div className="lg:pr-10">
@@ -55,36 +52,8 @@ export function Footer() {
               <span className="text-[#D4AF37] text-4xl float-left mr-3 font-heading leading-tight mt-1">R</span>
               egent Group is a trusted dealership for premium brands in the Mumbai and Thane regions. Backed by two decades of automotive expertise, we build experiences that feel as premium as the vehicles we represent — rooted in excellence, reaching everywhere.
             </p>
-            <div className="text-slate-500 text-xs italic font-serif">
-              — Kamal Ailsinghani, Chairman
-            </div>
-          </div>
-
-          {/* Column 2: Directory */}
-          <div className="lg:px-10">
-            <h3 className="text-[#D4AF37] text-xs uppercase tracking-widest mb-6 font-semibold">
-              Directory
-            </h3>
-            <ul className="space-y-4">
-              {[
-                { name: "Studio (Home)", href: "/", num: "01" },
-                { name: "Services (About Us)", href: "/about-us", num: "02" },
-                { name: "Touch Points", href: "/touch-points", num: "03" },
-                { name: "Work (Events)", href: "/events", num: "04" },
-                { name: "Initiatives (CSR)", href: "/csr-initiatives", num: "05" },
-                { name: "Enquire (Contact)", href: "/contact-us", num: "06" },
-              ].map((item) => (
-                <li key={item.name} className="flex items-center justify-between group border-b border-dashed border-white/10 pb-3">
-                  <Link href={item.href} className="text-slate-300 text-sm group-hover:text-[#D4AF37] transition-colors">
-                    {item.name}
-                  </Link>
-                  <span className="text-slate-500 text-xs text-right font-serif italic">
-                    {item.num}
-                  </span>
-                </li>
-              ))}
-            </ul>
-          </div>
+            
+          </div>         
 
           {/* Column 3: Correspondence */}
           <div className="lg:px-10">
@@ -111,7 +80,7 @@ export function Footer() {
               <address className="not-italic text-slate-300 text-sm leading-relaxed">
                 Shop No 16 A, Dosti Imperia<br />
                 Thane West, Maharashtra<br />
-                India — 400610
+                India, 400610
               </address>
             </div>
           </div>
@@ -126,7 +95,7 @@ export function Footer() {
                 {time}
               </div>
               <div className="text-slate-500 text-[10px] uppercase tracking-widest">
-                IST — MUMBAI, INDIA
+                IST - MUMBAI, INDIA
               </div>
             </div>
 
@@ -161,7 +130,7 @@ export function Footer() {
         {/* Bottom Footer Bar */}
         <div className="pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] uppercase tracking-widest text-slate-500">
           <div>
-            &copy; {new Date().getFullYear()} Regent Group, Crafted with intent. Mumbai, India — Est. 2014
+            &copy; {new Date().getFullYear()} Regent Group, Crafted with intent. Mumbai, India - Est. 2014
           </div>
           <div className="flex gap-6">
             <Link href="/privacy-policy" className="hover:text-[#D4AF37] transition-colors duration-300">
@@ -174,7 +143,5 @@ export function Footer() {
         </div>
       </div>
     </footer>
-  );
-}
   );
 }
