@@ -401,18 +401,18 @@ export default function Home() {
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 justify-items-center">
             {[
-              { name: "Kamal Ailsinghani", title: "Chairman", img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=300&auto=format&fit=crop" },
-              { name: "Pawan Ailsinghani", title: "Managing Director", img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=300&auto=format&fit=crop" },
-              { name: "R. Chandrashekar", title: "Group Exec. Director", img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=300&auto=format&fit=crop" },
-              { name: "B. Sainath", title: "Group Director", img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=300&auto=format&fit=crop" },
-              { name: "Jayesh Parikh", title: "Group CFO", img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=300&auto=format&fit=crop" }
+              { name: "Kamal Ailsinghani", title: "Chairman", img: "/kamalAlisinghani.png" },
+              { name: "Pawan Ailsinghani", title: "Managing Director", img: "/pawanAlisinghani.webp" },
+              { name: "R. Chandrashekar", title: "Group Exec. Director", img: "/rChandrashekhar.webp", imgClass: "object-center scale-[1.05] translate-x-[6px]" },
+              { name: "B. Sainath", title: "Group Director", img: "/bSainath.webp" },
+              { name: "Jayesh Parikh", title: "Group CFO", img: "/jayeshParikh.png" }
             ].map((principal, i) => (
               <div key={i} className="flex flex-col items-center text-center group">
                 <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden mb-5 border-4 border-slate-100 group-hover:border-accent group-hover:shadow-lg transition-all duration-300">
                   <img
                     src={principal.img}
                     alt={principal.name}
-                    className="object-cover w-full h-full grayscale group-hover:grayscale-0 transition-all duration-500 transform group-hover:scale-110"
+                    className={`object-cover w-full h-full grayscale group-hover:grayscale-0 transition-all duration-500 transform group-hover:scale-125 ${principal.imgClass || ""}`}
                   />
                 </div>
                 <h3 className="text-base font-bold font-heading text-primary leading-tight">{principal.name}</h3>

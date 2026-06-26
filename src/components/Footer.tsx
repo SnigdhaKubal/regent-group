@@ -49,7 +49,7 @@ export function Footer() {
               About The Group
             </h3>
             <p className="text-slate-300 text-sm leading-relaxed text-justify mb-6">
-              <span className="text-[#D4AF37] text-4xl float-left mr-3 font-heading leading-tight mt-1">R</span>
+              <span className="text-[#D4AF37] text-4xl float-left mr-[2px] font-heading leading-tight mt-1">R</span>
               egent Group is a trusted dealership for premium brands in the Mumbai and Thane regions. Backed by two decades of automotive expertise, we build experiences that feel as premium as the vehicles we represent — rooted in excellence, reaching everywhere.
             </p>
 
@@ -105,9 +105,10 @@ export function Footer() {
               </h3>
               <ul className="space-y-4">
                 {[
-                  { name: "Instagram", href: "#" },
-                  { name: "LinkedIn", href: "#" },
-                  { name: "Facebook", href: "#" }
+                  { name: "Instagram", href: "https://www.instagram.com/regentgrouporg/" },
+                  { name: "LinkedIn", href: "https://www.linkedin.com/company/regent-group-organisation/" },
+                  { name: "Facebook", href: "https://www.facebook.com/profile.php?id=81559836466225" },
+                  { name: "YouTube", href: "https://www.youtube.com/@regentgrouporg" }
                 ].map((item) => (
                   <li key={item.name} className="flex justify-between items-center group border-b border-dashed border-white/10 pb-3">
                     <a href={item.href} className="text-slate-300 text-sm group-hover:text-[#D4AF37] transition-colors">
