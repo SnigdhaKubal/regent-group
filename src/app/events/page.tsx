@@ -138,18 +138,4 @@ export default function EventsPage() {
   );
 }
 
-<h3 className="text-xl font-heading font-bold text-[#0F172A] group-hover:text-[#D4AF37] transition-colors mb-3">
-  {event.title}
-</h3>
-                    </article >
-                  ))}
-                </div >
-                
-              </div >
-            ))}
-          </div >
-        </div >
-      </section >
-    </main >
-  );
-}
+
