@@ -12,19 +12,19 @@ export default function CSRPage() {
   return (
     <main className="flex min-h-screen flex-col bg-slate-50">
       {/* Corporate Hero */}
-      <section className="relative bg-[#0F172A] py-24 sm:py-32 overflow-hidden">
+      <section className="relative bg-[#0F172A] py-12 sm:py-16 overflow-hidden">
         <div className="absolute inset-0 opacity-10 bg-slate-800" />
-        <div className="container relative z-10 mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
-          <div className="mb-8">
-            <Breadcrumb items={[{ label: "CSR Initiatives" }]} />
+        <div className="container relative z-10 mx-auto px-2 sm:px-4 lg:px-8">
+          <div className="mb-6">
+            <Breadcrumb items={[{ label: "Events" }]} />
           </div>
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold text-white mb-6 tracking-tight">
-              CSR Initiatives
+              Corporate Events & Showcases
             </h1>
-            <div className="w-20 h-1 bg-[#D4AF37] mb-8"></div>
+            <div className="w-20 h-1 bg-[#D4AF37] mb-6"></div>
             <p className="text-lg md:text-xl text-slate-300 leading-relaxed font-sans">
-              Our Corporate Social Responsibility (CSR) initiatives are deeply rooted in giving back to the community and creating a lasting impact on society.
+              Our Corporate Social Responsibility (CSR) initiatives are deeply rooted in giving back to the community and creating a lasting impact on society
             </p>
           </div>
         </div>
