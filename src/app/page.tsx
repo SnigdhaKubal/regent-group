@@ -343,7 +343,7 @@ export default function Home() {
       </section>
 
       {/* 5. Why Regent Group */}
-      <section className="py-12 md:py-16 bg-white border-b border-border/50">
+      <section className="py-8 md:py-12 bg-white border-b border-border/50">
         <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
@@ -391,8 +391,8 @@ export default function Home() {
 
       {/* 6. Corporate Leadership (Principals) */}
       <section className="py-12 md:py-16 bg-white relative border-b border-border/50">
-        <div className="w-full px-4 sm:px-6 lg:px-12">
-          <div className="text-center max-w-3xl mx-auto mb-16">
+        <div className="w-full px-2 sm:px-4 lg:px-12">
+          <div className="text-center max-w-1xl mx-auto mb-12">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary uppercase tracking-widest mb-6">
               Our Leadership
             </h2>
