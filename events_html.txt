@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<title>Events &#8211; regentgrouporg.com</title>
+			<style>								
+					form#stickyelements-form input::-moz-placeholder{
+						color: #4F4F4F;
+					} 
+					form#stickyelements-form input::-ms-input-placeholder{
+						color: #4F4F4F					} 
+					form#stickyelements-form input::-webkit-input-placeholder{
+						color: #4F4F4F					}
+					form#stickyelements-form input::placeholder{
+						color: #4F4F4F					}
+					form#stickyelements-form textarea::placeholder {
+						color: #4F4F4F					}
+					form#stickyelements-form textarea::-moz-placeholder {
+						color: #4F4F4F					}					
+			</style>	
+			<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="regentgrouporg.com &raquo; Feed" href="https://www.regentgrouporg.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="regentgrouporg.com &raquo; Comments Feed" href="https://www.regentgrouporg.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.regentgrouporg.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.regentgrouporg.com%2Fevents%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.regentgrouporg.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.regentgrouporg.com%2Fevents%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://www.regentgrouporg.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.8' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-style-css' href='https://www.regentgrouporg.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-652-css' href='https://www.regentgrouporg.com/wp-content/uploads/elementor/css/post-652.css?ver=1782331690' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-gallery-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-nested-tabs-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1192-css' href='https://www.regentgrouporg.com/wp-content/uploads/elementor/css/post-1192.css?ver=1782369744' type='text/css' media='all' />
+<link rel='stylesheet' id='th-almaira-shop-styles-css' href='https://www.regentgrouporg.com/wp-content/themes/almaira-shop/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='th-icon-css' href='https://www.regentgrouporg.com/wp-content/themes/almaira-shop/third-party/fonts/th-icon/style.css?ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='almaira-shop-menu-style-css' href='https://www.regentgrouporg.com/wp-content/themes/almaira-shop/css/almaira-shop-menu.css?ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='almaira-shop-style-css' href='https://www.regentgrouporg.com/wp-content/themes/th-almaira-shop/style.css?ver=1.2.9' type='text/css' media='all' />
+<style id='almaira-shop-style-inline-css' type='text/css'>
+@media (min-width: 769px){.thunk-logo img{
+    max-width: 225px;
+  }}@media (max-width: 768px){.thunk-logo img{
+    max-width: 180px;
+  }}@media (max-width: 550px){.thunk-logo img{
+    max-width: 150px;
+  }}@media (min-width: 769px){.thunk-page-top-banner{
+    height: 290px;
+  }}@media (max-width: 768px){.thunk-page-top-banner{
+    height: 285px;
+  }}@media (max-width: 550px){.thunk-page-top-banner{
+    height: 217px;
+  }}.thunk-page-top-banner{
+            background-image: url('');
+        } 
+    a:hover,
+    .thunk-category a:hover .title,
+    .thunk-category a:hover .count,
+    #move-to-top:hover,
+    .thunk-quik .thunk-compare .woocommerce.product.compare-button a:hover:before,.almaira-shop-menu li a:hover,.almaira-cart ul.cart_list li a:hover,.thunk-product .yith-wcwl-wishlistexistsbrowse.show:before, .thunk-product .yith-wcwl-wishlistaddedbrowse.show:before,.summary .yith-wcwl-add-to-wishlist.show .add_to_wishlist::before, .summary .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse.show a::before, .summary .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse.show a::before,.thunk-body li.product:hover .thunk-product .button, .thunk-body li.product:hover .thunk-product .added_to_cart.wc-forward,body.almaira-shop-dark .thunk-ribbon-wrapper a:hover,.almaira-shop-dark a.th-slider-button:hover,#close-btn:hover, #search-btn1:hover,.thunk-quickview:hover.thunk-quickview:before, .thunk-wishlist:hover.thunk-wishlist:before, .thunk-compare:hover.thunk-compare:before,.overcenter .menu-close .menu-close-btn,.thunk-post-excerpt .read-more .thunk-readmore:hover,.almaira-shop-dark #search-overlay #close-btn:hover,body.almaira-shop-dark .woocommerce a.remove:hover,.woocommerce .entry-summary a.compare.button.added:before,.woocommerce ul.products li.product .price,.almaira-shop-menu .current-menu-item a,.thunk-contact-plugin-notice, .thunk-instafeed-plugin-notice,.woocommerce .entry-summary a.th-product-compare-btn.th-added-compar,.thunk-product .button.add_to_cart_button:before{
+        color: #000000;
+    } .thunk-category a:hover,
+   .thunk-counter-wrapper .counter-content:hover,#filter-sortby-load-more:hover,.thunk-button:hover,body.almaira-shop-dark .main-header-col3 .header-icon .almaira-cart p.buttons a:hover,body .woocommerce-tabs .tabs li a::before,.thunk-post-excerpt .read-more .thunk-readmore:hover{
+        border-color: #000000;
+    }
+     .th-button:hover:before,.woocommerce-message,.main-header-col3 .header-icon .almaira-cart p.buttons a:hover,.thunk-body li.product:hover .thunk-product .button, .thunk-body li.product:hover .thunk-product .added_to_cart.wc-forward,.th-check-container .th-checkmark:after{
+        border-color: #000000;
+    }.thunk-category-section .owl-nav i:hover, 
+    .container input:checked ~ .checkmark,
+    .thunk-button:hover,
+    .woocommerce li.product .thunk-product span.onsale,
+    .woocommerce nav.woocommerce-pagination ul li span.current,.sort-radio span.th-selected,.container input:checked ~ .checkmark, .container input:checked ~ .checkmark-p,.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.main-header-col3 .header-icon .almaira-cart p.buttons a:hover,.thunk-single-post [type='submit'], .thunk-single-page [type='submit'], .form-content [type='submit'], .almaira-widget-content .woocommerce-product-search button, .woocommerce-product-search button,body.almaira-shop-dark.woocommerce li.product .thunk-product span.onsale,.almaira-shop-dark.woocommerce .product span.onsale,.dot_1,.dot_qv1,#filter-sortby-load-more:hover,body.almaira-shop-dark .main-header-col3 .header-icon .almaira-cart p.buttons a:hover,#alm-quick-view-close:hover,.woocommerce .product span.onsale{
+        background: #000000;
+    }
+    .thunk-body{
+     background:;
+    }.thunk-breadcrumb li a:hover{color:#000000}
+    @media screen and (max-width: 1024px){
+        .left .menu-close,.right .menu-close{background:#000000;}
+    }.top-header-container{line-height:42px;}.top-header-bar{border-bottom-width:1px;}.top-header-bar,body.almaira-shop-dark .top-header-bar{border-bottom-color:#fafafa}.main-header-bar{border-bottom-width:0px;}.main-header-bar,body.almaira-shop-dark .main-header-bar{border-bottom-color:}.top-footer-container{line-height:64px;}
+   .top-footer-bar{border-bottom-width:1px;}.top-footer-bar,body.almaira-shop-dark .top-footer-bar{border-bottom-color:}.bottom-footer-container{line-height:60px;}
+   .bottom-footer-bar{border-top-width:1px;}.bottom-footer-bar,body.almaira-shop-dark .bottom-footer-bar{border-top-color:}.almaira_overlayloader{
+    background: #000000;
+}
+#page .container{max-width:1491px;}
+    #th-ribbon .content-area{
+    background-image: url('https://regentgrouporg.com/wp-content/uploads/2024/09/ribbon-background-1.png');
+    background-repeat: no-repea;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+  }
+/*# sourceURL=almaira-shop-style-inline-css */
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://www.regentgrouporg.com/wp-includes/css/dashicons.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='chaty-front-css-css' href='https://www.regentgrouporg.com/wp-content/plugins/chaty/css/chaty-front.min.css?ver=3.5.71747166349' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mystickyelements-google-fonts-css' href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700&#038;ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css-css' href='https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/dist/css/font-awesome.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mystickyelements-front-css-css' href='https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/dist/css/mystickyelements-front.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='intl-tel-input-css' href='https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/intl-tel-input-src/build/css/intlTelInput.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://www.regentgrouporg.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742242395' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://www.regentgrouporg.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742242404' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-poppins-css' href='https://www.regentgrouporg.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1742245757' type='text/css' media='all' />
+<!--n2css--><!--n2js--><script type="text/javascript" id="breeze-prefetch-js-extra">
+/* <![CDATA[ */
+var breeze_prefetch = {"local_url":"https://www.regentgrouporg.com","ignore_remote_prefetch":"1","ignore_list":["wp-admin","wp-login.php"]};
+//# sourceURL=breeze-prefetch-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.5.7" id="breeze-prefetch-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.1.4" id="font-awesome-4-shim-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.regentgrouporg.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.regentgrouporg.com/wp-json/wp/v2/pages/1192" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.regentgrouporg.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel="canonical" href="https://www.regentgrouporg.com/events/" />
+<link rel='shortlink' href='https://www.regentgrouporg.com/?p=1192' />
+<meta name="generator" content="Elementor 4.1.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.regentgrouporg.com/wp-content/uploads/2025/06/background-white-line-absrtact-copy.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="icon" href="https://www.regentgrouporg.com/wp-content/uploads/2025/06/cropped-Logo-02-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.regentgrouporg.com/wp-content/uploads/2025/06/cropped-Logo-02-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.regentgrouporg.com/wp-content/uploads/2025/06/cropped-Logo-02-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.regentgrouporg.com/wp-content/uploads/2025/06/cropped-Logo-02-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.elementor-element-d3608f6 .elementor-social-icon-instagram {background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);}		</style>
+			</head>
+<body data-rsssl=1 class="wp-singular page-template-default page page-id-1192 custom-background wp-custom-logo wp-embed-responsive wp-theme-almaira-shop wp-child-theme-th-almaira-shop thunk-body abv-none ehf-template-almaira-shop ehf-stylesheet-th-almaira-shop alm-main-stick-hdr alm-fade almaira-shop-light  elementor-default elementor-template-full-width elementor-kit-652 elementor-page elementor-page-1192">
+	
+	
+<input type="hidden" id="back-to-top" value="on"/>
+    <div class="almaira_overlayloader">
+    <div class="almaira-shop-pre-loader"><img src=""></div>
+    </div> 
+   <div id="page" class="almaira-site">
+<header class="mhdrleft"> 
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	
+<div class="main-header mhdrleft">
+	     	<div class="main-header-bar two">
+	     		<div class="container">
+	     			<div class="main-header-container">
+             
+		                <div class="main-header-col1">
+		                  <div class="thunk-logo">
+<a href="https://www.regentgrouporg.com/" class="custom-logo-link" rel="home"><img width="2223" height="539" src="https://www.regentgrouporg.com/wp-content/uploads/2025/06/cropped-Logo-01-scaled-1.png" class="custom-logo" alt="regentgrouporg.com" decoding="async" fetchpriority="high" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/06/cropped-Logo-01-scaled-1.png 1x,  2x" sizes="(max-width: 2223px) 100vw, 2223px" /></a></div>
+                    </div>
+           
+        <div class="main-header-col2">
+        <nav>
+        <!-- Menu Toggle btn-->
+        <div class="menu-toggle">
+            <button type="button" class="menu-btn" id="menu-btn">
+                <div class="btn">
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+               </div>
+               <div class="text">
+                
+                </div>
+           
+            </button>
+        </div>
+        <div class="sider main right almaira-shop-menu-hide">
+        <div class="sider-inner">
+        	<ul id="almaira-shop-menu" class="almaira-shop-menu" data-menu-style=horizontal><li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-804"><a href="https://www.regentgrouporg.com/"><span class="almaira-shop-menu-link">Home</span></a></li>
+<li id="menu-item-996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-996"><a href="https://www.regentgrouporg.com/about-us/"><span class="almaira-shop-menu-link">About us</span></a></li>
+<li id="menu-item-1208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1208"><a href="https://www.regentgrouporg.com/our-service-touch-point/"><span class="almaira-shop-menu-link">Sales Touch Point</span></a></li>
+<li id="menu-item-1209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209"><a href="https://www.regentgrouporg.com/our-sales-touch-point/"><span class="almaira-shop-menu-link">Service Touch Point</span></a></li>
+<li id="menu-item-1207" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1192 current_page_item menu-item-1207"><a href="https://www.regentgrouporg.com/events/" aria-current="page"><span class="almaira-shop-menu-link">Events</span></a></li>
+<li id="menu-item-1210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1210"><a href="https://www.regentgrouporg.com/csr-initiatives/"><span class="almaira-shop-menu-link">CSR Initiatives</span></a></li>
+<li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1361"><a href="https://www.regentgrouporg.com/contact-us/"><span class="almaira-shop-menu-link">Contact us</span></a></li>
+</ul>        </div>
+        </div>
+        </nav>
+    </div><!-- col-2-->
+    <div class="main-header-col3">
+<div class="header-icon">
+      </div>
+</div>
+    <!-- col-3-->
+		            </div>
+		        </div>
+		    </div>
+		</div> 				
+ 
+</header>		<div data-elementor-type="wp-page" data-elementor-id="1192" class="elementor elementor-1192">
+				<div class="elementor-element elementor-element-aeb8634 e-con-full e-flex e-con e-parent" data-id="aeb8634" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-aa52341 elementor-widget elementor-widget-heading" data-id="aa52341" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Events</h3>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-147a141 e-transform e-flex e-con-boxed e-con e-parent" data-id="147a141" data-element_type="container" data-e-type="container" data-settings="{&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-fbb868b e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="fbb868b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;enable&quot;,&quot;horizontal_scroll_mobile&quot;:&quot;enable&quot;}" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-tabs" data-widget-number="263947915" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+			<div class="e-n-tabs-heading" role="tablist">
+					<button id="e-n-tab-title-2639479151" data-tab-title-id="e-n-tab-title-2639479151" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-2639479151" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				MG Events			</span>
+		</button>
+				<button id="e-n-tab-title-2639479152" data-tab-title-id="e-n-tab-title-2639479152" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-2639479152" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				Regent Skoda Events			</span>
+		</button>
+				<button id="e-n-tab-title-2639479153" data-tab-title-id="e-n-tab-title-2639479153" class="e-n-tab-title" aria-selected="false" data-tab-index="3" role="tab" tabindex="-1" aria-controls="e-n-tab-content-2639479153" style="--n-tabs-title-order: 3;">
+						<span class="e-n-tab-title-text">
+				Regent Toyota Events			</span>
+		</button>
+				<button id="e-n-tab-title-2639479154" data-tab-title-id="e-n-tab-title-2639479154" class="e-n-tab-title" aria-selected="false" data-tab-index="4" role="tab" tabindex="-1" aria-controls="e-n-tab-content-2639479154" style="--n-tabs-title-order: 4;">
+						<span class="e-n-tab-title-text">
+				Regent Tata Events			</span>
+		</button>
+				<button id="e-n-tab-title-2639479155" data-tab-title-id="e-n-tab-title-2639479155" class="e-n-tab-title" aria-selected="false" data-tab-index="5" role="tab" tabindex="-1" aria-controls="e-n-tab-content-2639479155" style="--n-tabs-title-order: 5;">
+						<span class="e-n-tab-title-text">
+				Regent Honda Events			</span>
+		</button>
+				<button id="e-n-tab-title-2639479156" data-tab-title-id="e-n-tab-title-2639479156" class="e-n-tab-title" aria-selected="false" data-tab-index="6" role="tab" tabindex="-1" aria-controls="e-n-tab-content-2639479156" style="--n-tabs-title-order: 6;">
+						<span class="e-n-tab-title-text">
+				MG Select Events			</span>
+		</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-2639479151" role="tabpanel" aria-labelledby="e-n-tab-title-2639479151" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-6795d59 e-con-full e-flex e-con e-child" data-id="6795d59" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b829886 e-flex e-con-boxed e-con e-child" data-id="b829886" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-94b5e17 e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="94b5e17" data-element_type="widget" data-e-type="widget" data-settings="{&quot;horizontal_scroll&quot;:&quot;disable&quot;}" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-tabs" data-widget-number="155934231" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+			<div class="e-n-tabs-heading" role="tablist">
+					<button id="e-n-tab-title-1559342311" data-tab-title-id="e-n-tab-title-1559342311" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1559342311" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				MG Hector Event			</span>
+		</button>
+				<button id="e-n-tab-title-1559342312" data-tab-title-id="e-n-tab-title-1559342312" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1559342312" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				MG Hector Event2			</span>
+		</button>
+				<button id="e-n-tab-title-1559342313" data-tab-title-id="e-n-tab-title-1559342313" class="e-n-tab-title" aria-selected="false" data-tab-index="3" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1559342313" style="--n-tabs-title-order: 3;">
+						<span class="e-n-tab-title-text">
+				MG Astor Event2			</span>
+		</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-1559342311" role="tabpanel" aria-labelledby="e-n-tab-title-1559342311" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-46a110d e-con-full e-flex e-con e-child" data-id="46a110d" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-871581d e-flex e-con-boxed e-con e-child" data-id="871581d" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-487b7ef elementor-widget elementor-widget-image-gallery" data-id="487b7ef" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-1' class='gallery galleryid-1192 gallery-columns-4 gallery-size-large'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (1)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc3MSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTEuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1.jpg'><img decoding="async" width="640" height="433" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1-1024x693.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1-1024x693.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1-300x203.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1-768x520.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1.jpg 1080w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (2)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc3MCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTIuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-2.jpg'><img decoding="async" width="640" height="431" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-2-1024x690.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-2-1024x690.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-2-300x202.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-2-768x518.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-2.jpg 1080w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (3)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc2OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTMuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-3.jpg'><img decoding="async" width="640" height="431" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-3-1024x690.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-3-1024x690.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-3-300x202.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-3-768x518.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-3.jpg 1080w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (4)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc2OCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTQuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-4.jpg'><img loading="lazy" decoding="async" width="640" height="431" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-4-1024x690.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-4-1024x690.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-4-300x202.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-4-768x518.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-4.jpg 1080w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (5)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc2NywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTUuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-5.jpg'><img loading="lazy" decoding="async" width="640" height="433" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-5-1024x693.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-5-1024x693.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-5-300x203.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-5-768x520.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-5.jpg 1080w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (6)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc2NiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTYuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-6.jpg'><img loading="lazy" decoding="async" width="640" height="433" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-6-1024x693.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-6-1024x693.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-6-300x203.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-6-768x520.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-6.jpg 1080w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (7)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc2NSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTcuanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-7.jpg'><img loading="lazy" decoding="async" width="640" height="432" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-7.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-7.jpg 863w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-7-300x202.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-7-768x518.jpg 768w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila (8)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc2NCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLTguanBnIiwic2xpZGVzaG93IjoiNDg3YjdlZiJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-8.jpg'><img loading="lazy" decoding="async" width="640" height="433" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-8-1024x693.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-8-1024x693.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-8-300x203.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-8-768x520.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-8.jpg 1080w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="487b7ef" data-elementor-lightbox-title="Hector Love Drive – Unleashing Power on the Open Road!The MG Regent Group today hosted an exhila" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc3MiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA3XC9IZWN0b3ItTG92ZS1Ecml2ZS1cdTIwMTMtVW5sZWFzaGluZy1Qb3dlci1vbi10aGUtT3Blbi1Sb2FkVGhlLU1HLVJlZ2VudC1Hcm91cC10b2RheS1ob3N0ZWQtYW4tZXhoaWxhLmpwZyIsInNsaWRlc2hvdyI6IjQ4N2I3ZWYifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila.jpg'><img loading="lazy" decoding="async" width="640" height="431" src="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1024x690.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-1024x690.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-300x202.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila-768x518.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/07/Hector-Love-Drive-–-Unleashing-Power-on-the-Open-RoadThe-MG-Regent-Group-today-hosted-an-exhila.jpg 1080w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-1559342312" role="tabpanel" aria-labelledby="e-n-tab-title-1559342312" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-9edbe09 e-con-full e-flex e-con e-child" data-id="9edbe09" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-ab646a8 e-flex e-con-boxed e-con e-child" data-id="ab646a8" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8d3fbb9 elementor-widget elementor-widget-image-gallery" data-id="8d3fbb9" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-2' class='gallery galleryid-1192 gallery-columns-4 gallery-size-large'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05236-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1MywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MjM2LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05236-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05236-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05236-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05236-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05160-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1MCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTYwLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05160-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05160-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05160-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05160-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05186-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1MSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTg2LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05186-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05186-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05186-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05186-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05189-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1MiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTg5LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05189-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05189-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05189-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05189-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05150-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTUwLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05150-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05150-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05150-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05150-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05135-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0OCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTM1LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05135-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05135-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05135-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05135-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05132-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0NywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTMyLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05132-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05132-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05132-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05132-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05128-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0NiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTI4LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05128-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05128-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05128-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05128-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05108-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0NSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTA4LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05108-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05108-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05108-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05108-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05085-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0MiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MDg1LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05085-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05085-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05085-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05085-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05092-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0MywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MDkyLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05092-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05092-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05092-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05092-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05105-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA0NCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MTA1LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05105-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05105-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05105-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05105-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05271-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1NSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MjcxLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05271-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05271-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05271-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05271-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05255-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1NCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MjU1LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05255-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05255-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05255-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05255-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05617-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2MiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1NjE3LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05617-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05617-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05617-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05617-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05611-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2MSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1NjExLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05611-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05611-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05611-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05611-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05536-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2MCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1NTM2LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05536-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05536-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05536-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05536-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05412-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1NDEyLUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05412-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05412-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05412-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05412-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05395-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1OCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1Mzk1LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05395-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05395-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05395-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05395-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05354-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1NywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1MzU0LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05354-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05354-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05354-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05354-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d3fbb9" data-elementor-lightbox-title="_6_05296-Enhanced-NR" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA1NiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC82XzA1Mjk2LUVuaGFuY2VkLU5SLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI4ZDNmYmI5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05296-Enhanced-NR-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05296-Enhanced-NR-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05296-Enhanced-NR-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/6_05296-Enhanced-NR-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-1559342313" role="tabpanel" aria-labelledby="e-n-tab-title-1559342313" data-tab-index="3" style="--n-tabs-title-order: 3;" class=" elementor-element elementor-element-debda20 e-con-full e-flex e-con e-child" data-id="debda20" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-ce4ecb8 e-flex e-con-boxed e-con e-child" data-id="ce4ecb8" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e91ce6d elementor-widget elementor-widget-image-gallery" data-id="e91ce6d" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-3' class='gallery galleryid-1192 gallery-columns-4 gallery-size-large'><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP08969-10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA3NSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwODk2OS0xMC5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP08969-10.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP08969-10.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP08972-11" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA3NCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwODk3Mi0xMS5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP08972-11.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP08972-11.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP08984-12" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA3MywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwODk4NC0xMi5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP08984-12.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP08984-12.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09035-13" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA3MiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTAzNS0xMy5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09035-13.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09035-13.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09159-14" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA3MSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTE1OS0xNC5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09159-14.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09159-14.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09239-15" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA3MCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTIzOS0xNS5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09239-15.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09239-15.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09255-16" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTI1NS0xNi5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09255-16.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09255-16.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09292-17" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2OCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTI5Mi0xNy5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09292-17.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09292-17.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09339-18" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2NywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTMzOS0xOC5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09339-18.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09339-18.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09363-19" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2NiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTM2My0xOS5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09363-19.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09363-19.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09398-20" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2NSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTM5OC0yMC5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09398-20.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09398-20.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09418-21" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2NCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTQxOC0yMS5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09418-21.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09418-21.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e91ce6d" data-elementor-lightbox-title="NNP09434-22" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA2MywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9OTlAwOTQzNC0yMi5qcGciLCJzbGlkZXNob3ciOiJlOTFjZTZkIn0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09434-22.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/NNP09434-22.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-2639479152" role="tabpanel" aria-labelledby="e-n-tab-title-2639479152" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-c0b0e2b e-con-full e-flex e-con e-child" data-id="c0b0e2b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-fd66385 e-flex e-con-boxed e-con e-child" data-id="fd66385" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ccf94c8 elementor-widget elementor-widget-image-gallery" data-id="ccf94c8" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-4' class='gallery galleryid-1192 gallery-columns-4 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwNiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLmpwZyIsInNsaWRlc2hvdyI6ImNjZjk0YzgifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (1)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwNSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTEuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-1.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (2)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwNCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTIuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-2.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (3)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwMywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTMuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-3.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (4)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwMiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTQuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-4.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (5)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwMSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTUuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-5.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (6)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkwMCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTYuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-6.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (7)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg5OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTcuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-7.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (8)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg5OCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTguanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-8.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ccf94c8" data-elementor-lightbox-title="Accelerate into abundance!This Akshaya Tritiya, Regent Škoda proudly celebrates with our cherish (9)" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg5NywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9BY2NlbGVyYXRlLWludG8tYWJ1bmRhbmNlVGhpcy1Ba3NoYXlhLVRyaXRpeWEtUmVnZW50LVNrb2RhLXByb3VkbHktY2VsZWJyYXRlcy13aXRoLW91ci1jaGVyaXNoLTkuanBnIiwic2xpZGVzaG93IjoiY2NmOTRjOCJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-9.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/Accelerate-into-abundanceThis-Akshaya-Tritiya-Regent-Skoda-proudly-celebrates-with-our-cherish-9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-2639479153" role="tabpanel" aria-labelledby="e-n-tab-title-2639479153" data-tab-index="3" style="--n-tabs-title-order: 3;" class=" elementor-element elementor-element-03c5f40 e-con-full e-flex e-con e-child" data-id="03c5f40" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-1f0ad4e e-flex e-con-boxed e-con e-child" data-id="1f0ad4e" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0c6d715 elementor-widget elementor-widget-image-gallery" data-id="0c6d715" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-5' class='gallery galleryid-1192 gallery-columns-4 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0071" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzMSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDcxLmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0071.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0071-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0072" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzMiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDcyLmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0072.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0072-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0073" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzMywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDczLmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0073.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0073-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0074" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzNCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDc0LmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0074.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0074-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0075" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzNSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDc1LmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0075.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0075-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0076" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzNiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDc2LmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0076.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0076-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0077" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzNywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDc3LmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0077.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0077-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="IMG-20250806-WA0078" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzOCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9JTUctMjAyNTA4MDYtV0EwMDc4LmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0078.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/IMG-20250806-WA0078-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="WhatsApp Image 2025-08-06 at 12.57.23_8ae729de" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTk0MCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9XaGF0c0FwcC1JbWFnZS0yMDI1LTA4LTA2LWF0LTEyLjU3LjIzXzhhZTcyOWRlLmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-12.57.23_8ae729de.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-12.57.23_8ae729de-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="0c6d715" data-elementor-lightbox-title="WhatsApp Image 2025-08-06 at 12.57.24_4629e48c" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTk0MSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzA4XC9XaGF0c0FwcC1JbWFnZS0yMDI1LTA4LTA2LWF0LTEyLjU3LjI0XzQ2MjllNDhjLmpwZyIsInNsaWRlc2hvdyI6IjBjNmQ3MTUifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-12.57.24_4629e48c.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-12.57.24_4629e48c-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-2639479154" role="tabpanel" aria-labelledby="e-n-tab-title-2639479154" data-tab-index="4" style="--n-tabs-title-order: 4;" class=" elementor-element elementor-element-8905dba e-con-full e-flex e-con e-child" data-id="8905dba" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-af3ac69 e-flex e-con-boxed e-con e-child" data-id="af3ac69" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-2639479155" role="tabpanel" aria-labelledby="e-n-tab-title-2639479155" data-tab-index="5" style="--n-tabs-title-order: 5;" class=" elementor-element elementor-element-d13de2e e-con-full e-flex e-con e-child" data-id="d13de2e" data-element_type="container" data-e-type="container">
+				</div>
+		<div id="e-n-tab-content-2639479156" role="tabpanel" aria-labelledby="e-n-tab-title-2639479156" data-tab-index="6" style="--n-tabs-title-order: 6;" class=" elementor-element elementor-element-db5e891 e-flex e-con-boxed e-con e-child" data-id="db5e891" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3d152d8 e-con-full e-flex e-con e-child" data-id="3d152d8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-01d51e0 e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="01d51e0" data-element_type="widget" data-e-type="widget" data-settings="{&quot;horizontal_scroll&quot;:&quot;disable&quot;}" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-tabs" data-widget-number="1921504" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+			<div class="e-n-tabs-heading" role="tablist">
+					<button id="e-n-tab-title-19215041" data-tab-title-id="e-n-tab-title-19215041" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-19215041" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				KL Rahul Delivery			</span>
+		</button>
+				<button id="e-n-tab-title-19215042" data-tab-title-id="e-n-tab-title-19215042" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-19215042" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				Shankar Mahadevan Delivery			</span>
+		</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-19215041" role="tabpanel" aria-labelledby="e-n-tab-title-19215041" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-1c65c04 e-con-full e-flex e-con e-child" data-id="1c65c04" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-c71ecba e-flex e-con-boxed e-con e-child" data-id="c71ecba" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5784bc9 elementor-widget elementor-widget-image-gallery" data-id="5784bc9" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-6' class='gallery galleryid-1192 gallery-columns-4 gallery-size-large'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05362-3-10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTM2Mi0zLTEwLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="427" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-1024x683.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-1024x683.jpg 1024w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-300x200.jpg 300w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-768x512.jpg 768w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-1536x1024.jpg 1536w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05362-3-10-2048x1365.jpg 2048w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05369-6-10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTM2OS02LTEwLmpwZyIsInNsaWRlc2hvdyI6IjU3ODRiYzkifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05369-6-10.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05369-6-10.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05399-16-12" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTM5OS0xNi0xMi5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05399-16-12.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05399-16-12.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05395-15-11" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTM5NS0xNS0xMS5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05395-15-11.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05395-15-11.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05433-26-13" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwOSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQzMy0yNi0xMy5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05433-26-13.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05433-26-13.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05444-30-14" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwOCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQ0NC0zMC0xNC5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05444-30-14.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05444-30-14.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05461-35-15" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQ2MS0zNS0xNS5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05461-35-15.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05461-35-15.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05468-40-16" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQ2OC00MC0xNi5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05468-40-16.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05468-40-16.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05469-41-17" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQ2OS00MS0xNy1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05469-41-17-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="469" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05469-41-17-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05469-41-17-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05469-41-17-300x220.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05479-48-18" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQ3OS00OC0xOC5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05479-48-18.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05479-48-18.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05481-50-19" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTQ4MS01MC0xOS5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05481-50-19.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05481-50-19.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05504-60-20" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTUwNC02MC0yMC5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05504-60-20.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05504-60-20.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05505-61-21" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTUwNS02MS0yMS5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05505-61-21.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05505-61-21.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05526-72-23" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTUyNi03Mi0yMy5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05526-72-23.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05526-72-23.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05519-69-22" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTUxOS02OS0yMi1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05519-69-22-scaled.jpg'><img loading="lazy" decoding="async" width="640" height="547" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05519-69-22-scaled.jpg" class="attachment-large size-large" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05519-69-22-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05519-69-22-300x257.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05536-74-24" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5OCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTUzNi03NC0yNC5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05536-74-24.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05536-74-24.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05564-88-26" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5NywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTU2NC04OC0yNi5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05564-88-26.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05564-88-26.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05549-82-25" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5NiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTU0OS04Mi0yNS5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05549-82-25.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05549-82-25.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05568-91-27" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5NSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTU2OC05MS0yNy5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05568-91-27.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05568-91-27.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05576-97-28" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5NCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTU3Ni05Ny0yOC5qcGciLCJzbGlkZXNob3ciOiI1Nzg0YmM5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05576-97-28.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05576-97-28.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05588-103-29" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5MywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTU4OC0xMDMtMjkuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05588-103-29.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05588-103-29.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05596-108-30" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5MiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTU5Ni0xMDgtMzAuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05596-108-30.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05596-108-30.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05606-115-32" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5MSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTYwNi0xMTUtMzIuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05606-115-32.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05606-115-32.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05605-114-31" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA5MCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTYwNS0xMTQtMzEuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05605-114-31.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05605-114-31.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5784bc9" data-elementor-lightbox-title="TGH05610-118-33" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjA4OSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwNTYxMC0xMTgtMzMuanBnIiwic2xpZGVzaG93IjoiNTc4NGJjOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05610-118-33.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH05610-118-33.jpg" class="attachment-large size-large" alt="" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-19215042" role="tabpanel" aria-labelledby="e-n-tab-title-19215042" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-559f529 e-con-full e-flex e-con e-child" data-id="559f529" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-10a13ef e-flex e-con-boxed e-con e-child" data-id="10a13ef" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5661bf9 elementor-widget elementor-widget-image-gallery" data-id="5661bf9" data-element_type="widget" data-e-type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-gallery">
+			<div id='gallery-7' class='gallery galleryid-1192 gallery-columns-4 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08787-6-11" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzNSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODc4Ny02LTExLXNjYWxlZC5qcGciLCJzbGlkZXNob3ciOiI1NjYxYmY5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08787-6-11-scaled.jpg'><img loading="lazy" decoding="async" width="150" height="104" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08787-6-11-scaled.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08787-6-11-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08787-6-11-300x208.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08799-13-12" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzNCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODc5OS0xMy0xMi1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08799-13-12-scaled.jpg'><img loading="lazy" decoding="async" width="150" height="103" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08799-13-12-scaled.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08799-13-12-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08799-13-12-300x207.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08781-4-10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODc4MS00LTEwLmpwZyIsInNsaWRlc2hvdyI6IjU2NjFiZjkifQ%3D%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08781-4-10.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08781-4-10.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08825-21-13" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODgyNS0yMS0xMy5qcGciLCJzbGlkZXNob3ciOiI1NjYxYmY5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08825-21-13.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08825-21-13.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08845-33-14" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODg0NS0zMy0xNC1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08845-33-14-scaled.jpg'><img loading="lazy" decoding="async" width="150" height="110" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08845-33-14-scaled.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08845-33-14-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08845-33-14-300x220.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08850-37-15" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODg1MC0zNy0xNS1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08850-37-15-scaled.jpg'><img loading="lazy" decoding="async" width="150" height="109" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08850-37-15-scaled.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08850-37-15-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08850-37-15-300x218.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08910-61-16" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyOSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODkxMC02MS0xNi5qcGciLCJzbGlkZXNob3ciOiI1NjYxYmY5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08910-61-16.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08910-61-16.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08913-63-17" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyOCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODkxMy02My0xNy1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08913-63-17-scaled.jpg'><img loading="lazy" decoding="async" width="150" height="117" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08913-63-17-scaled.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08913-63-17-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08913-63-17-300x234.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08919-66-18" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODkxOS02Ni0xOC5qcGciLCJzbGlkZXNob3ciOiI1NjYxYmY5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08919-66-18.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08919-66-18.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08925-70-19" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODkyNS03MC0xOS5qcGciLCJzbGlkZXNob3ciOiI1NjYxYmY5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08925-70-19.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08925-70-19.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08961-93-20" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNSwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODk2MS05My0yMC1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08961-93-20-scaled.jpg'><img loading="lazy" decoding="async" width="150" height="129" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08961-93-20-scaled.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08961-93-20-scaled.jpg 2560w, https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08961-93-20-300x258.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH08977-98-21" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNCwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwODk3Ny05OC0yMS5qcGciLCJzbGlkZXNob3ciOiI1NjYxYmY5In0%3D" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08977-98-21.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH08977-98-21.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH09019-116-22" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyMywidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwOTAxOS0xMTYtMjIuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH09019-116-22.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH09019-116-22.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon '>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5661bf9" data-elementor-lightbox-title="TGH09054-128-23" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyMiwidXJsIjoiaHR0cHM6XC9cL3d3dy5yZWdlbnRncm91cG9yZy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzEwXC9UR0gwOTA1NC0xMjgtMjMuanBnIiwic2xpZGVzaG93IjoiNTY2MWJmOSJ9" href='https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH09054-128-23.jpg'><img loading="lazy" decoding="async" width="1" height="1" src="https://www.regentgrouporg.com/wp-content/uploads/2025/10/TGH09054-128-23.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure>
+		</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-54249b7 e-grid e-con-full e-con e-parent" data-id="54249b7" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-3a8a240 e-transform elementor-widget elementor-widget-text-editor" data-id="3a8a240" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.3,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2 class="elementor-heading-title elementor-size-default elementor-inline-editing pen" style="font-style: normal; font-weight: 600; font-family: Poppins; color: #ffffff;" data-elementor-setting-key="title" data-pen-placeholder="Type Here..."><span style="text-decoration: underline;">Address:</span></h2><p><span style="text-decoration: underline;">Thane</span>&#8211; Shop No 16 A, Dosti Imperia, Ghodbunder Rd, Opp. R Mall, Thane West, Thane, Maharashtra 400610.</p><p><span style="text-decoration: underline;">Navi Mumbai</span>&#8211; D-238, near Uran Phata Flyover, T.T.C. Industrial Area, Shiravane, Nerul, Navi Mumbai, Maharashtra 400706</p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-32060cb e-transform elementor-widget elementor-widget-text-editor" data-id="32060cb" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2 style="font-style: normal; font-weight: 600; font-family: Poppins; color: #ffffff;" data-elementor-setting-key="title" data-pen-placeholder="Type Here..."><u>Contact Us:</u></h2><p>Phone Number: <strong>8238082223</strong></p><p><a style="color: #ffffff;" href="mailto:info@regentgrouporg.com"><span style="text-decoration: underline;">info@regentgrouporg.com </span></a>/ <a style="color: #ffffff;" href="mailto:careers@regentgrouporg.com"><br /><span style="text-decoration: underline;">careers@regentgrouporg.com</span><br /></a></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p><p><!--a=1--></p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-fac4cfe e-grid e-con-full e-con e-child" data-id="fac4cfe" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-366b59f elementor-widget elementor-widget-image" data-id="366b59f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.instagram.com/regentgrouporg/">
+							<img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/06/02-3-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-1555" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/06/02-3-150x150.png 150w, https://www.regentgrouporg.com/wp-content/uploads/2025/06/02-3.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-f3f6d67 elementor-widget elementor-widget-image" data-id="f3f6d67" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.facebook.com/people/Regent-Group/61559836466225/">
+							<img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/06/01-3-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-1554" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/06/01-3-150x150.png 150w, https://www.regentgrouporg.com/wp-content/uploads/2025/06/01-3.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-46e5b30 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="46e5b30" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.linkedin.com/company/regent-group-org/%20">
+							<img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/06/03-2-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-1556" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/06/03-2-150x150.png 150w, https://www.regentgrouporg.com/wp-content/uploads/2025/06/03-2.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-5cc7c9d elementor-widget elementor-widget-image" data-id="5cc7c9d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.youtube.com/@MGTejpalMotors" target="_blank">
+							<img loading="lazy" decoding="async" width="150" height="150" src="https://www.regentgrouporg.com/wp-content/uploads/2025/06/05-2-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-1553" alt="" srcset="https://www.regentgrouporg.com/wp-content/uploads/2025/06/05-2-150x150.png 150w, https://www.regentgrouporg.com/wp-content/uploads/2025/06/05-2.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" />								</a>
+															</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fb01a90 e-con-full e-flex e-con e-parent" data-id="fb01a90" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1b14ed8 elementor-widget elementor-widget-heading" data-id="1b14ed8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">© 2025 Regent Group.</p>				</div>
+				</div>
+				</div>
+				</div>
+		<footer class="thunk-footer">
+<div class="footer-wrap widget-area">
+<div class="bottom-footer">
+      <div class="bottom-footer-bar">
+           <div class="container">
+            <div class="bottom-footer-container">
+                 <div class="bottom-footer-col1 th-ftrdescription"> 
+                  
+                 </div>
+               </div>
+             </div>
+           </div>
+ </div>
+   </div>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/th-almaira-shop/*","/wp-content/themes/almaira-shop/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"4.1.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_panel_promotions":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/www.regentgrouporg.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.regentgrouporg.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.regentgrouporg.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"cd3591982e","atomicFormsSendForm":"304013d94c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1192,"title":"Events%20%E2%80%93%20regentgrouporg.com","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.3" id="jquery-effects-core-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/dist/a11y.min.js?ver=cb460b4676c94bd228ed" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/themes/almaira-shop/js/almaira-shop-menu.js?ver=1.2.9" id="almaira-shop-menu-js-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/themes/almaira-shop/js/almaira-custom.js?ver=1.2.9" id="almaira-shop-custom-js-js"></script>
+<script type="text/javascript" id="chaty-front-end-js-extra">
+/* <![CDATA[ */
+var chaty_settings = {"ajax_url":"https://www.regentgrouporg.com/wp-admin/admin-ajax.php","analytics":"0","capture_analytics":"0","token":"af0ab0fc3a","chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"click","cta_text":"Contact us","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"off","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-base","widget_icon_url":"","font_family":"-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif","widget_size":"54","custom_widget_size":"54","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#A886CD","widget_icon_color":"#ffffff","widget_rgb_color":"168,134,205","has_custom_css":0,"custom_css":"","widget_token":"4dfba7301d","widget_index":"","attention_effect":""},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Whatsapp","value":"91","hover_text":"WhatsApp","chatway_position":"","svg_icon":"\u003Csvg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\u003Ccircle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"/\u003E\u003Cpath d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"/\u003E\u003Cpath d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"/\u003E\u003C/svg\u003E","is_desktop":1,"is_mobile":1,"icon_color":"#49E670","icon_rgb_color":"73,230,112","channel_type":"Whatsapp","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"0","has_welcome_message":"1","emoji_picker":"1","input_placeholder":"Write your message...","chat_welcome_message":"\u003Cp\u003EHow can I help you? :)\u003C/p\u003E","wp_popup_headline":"Let&#039;s chat on WhatsApp","wp_popup_nickname":"","wp_popup_profile":"","wp_popup_head_bg_color":"#4AA485","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"https://web.whatsapp.com/send?phone=91","mobile_target":"","desktop_target":"_blank","target":"_blank","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"4dfba7301d","widget_index":"","click_event":"","viber_url":""}]}],"data_analytics_settings":"off","lang":{"whatsapp_label":"WhatsApp Message","hide_whatsapp_form":"Hide WhatsApp Form","emoji_picker":"Show Emojis"},"has_chatway":""};
+//# sourceURL=chaty-front-end-js-extra
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.5.71747166349" id="chaty-front-end-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/chaty/admin/assets/js/picmo-umd.min.js?ver=3.5.7" id="chaty-picmo-js-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/chaty/admin/assets/js/picmo-latest-umd.min.js?ver=3.5.7" id="chaty-picmo-latest-js-js"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/dist/js/mailcheck.js?ver=2.3.8" id="mailcheck-js-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/dist/js/email-autocomplete.js?ver=2.3.8" id="autocomplete-email-js-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/intl-tel-input-src/build/js/intlTelInput.js?ver=2.3.8" id="intl-tel-input-js-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="mystickyelements-fronted-js-js-extra">
+/* <![CDATA[ */
+var mystickyelements = {"ajaxurl":"https://www.regentgrouporg.com/wp-admin/admin-ajax.php","ajax_nonce":"5958fb7ca3","plugin_url":"https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/"};
+//# sourceURL=mystickyelements-fronted-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.regentgrouporg.com/wp-content/plugins/mystickyelements/dist/js/mystickyelements-fronted.js?ver=2.3.8" id="mystickyelements-fronted-js-js" defer="defer" data-wp-strategy="defer"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.regentgrouporg.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.regentgrouporg.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+            <div                 class="mystickyelements-fixed mystickyelements-wrap mystickyelements-position-right mystickyelements-position-screen-center mystickyelements-position-mobile-right mystickyelements-on-hover mystickyelements-size-medium mystickyelements-mobile-size-medium mystickyelements-entry-effect-slide-in mystickyelements-templates-default">
+				<div class="mystickyelement-lists-wrap">
+					<ul class="mystickyelements-lists mysticky">
+													<li class="mystickyelements-minimize ">
+								<span class="mystickyelements-minimize minimize-position-right minimize-position-mobile-right" style="background: #000000" >
+								&rarr;								</span>
+							</li>
+						
+						
+							<li id="mystickyelements-contact-form"
+                                style="border-color: ; border-width: 0px"
+                                class="mystickyelements-contact-form  element-desktop-on element-mobile-on"   data-tab-opt="hover" data-time-delay="0" >
+																<span class="mystickyelements-social-icon "
+									  style="background-color: #2596be; color: #FFFFFF;"><i
+										class="far fa-envelope"></i>Book A Test Drive</span>
+																<div class="element-contact-form" style="background-color: #ffffff">
+																		<div class="contact-form-heading" style="color: #2596BE;background-color:#ffffff">
+										Book A Test Drive										<span href="#" class="element-contact-close"><i class="fas fa-times"></i></span>
+									</div>
+
+									<form id="stickyelements-form" class="stickyelements-form" action="" method="post" autocomplete="off" data-close-after="1">
+																					<label>
+												<span class="sr-only">Name</span>
+												<input
+													class=""
+													type="text" id="contact-form-name" name="contact-form-name" value=""
+													placeholder="Name"   autocomplete="off"/>
+											</label>
+																					<label>
+												<span class="sr-only">Phone</span>
+												<input
+													class=" required"
+													type="tel" id="contact-form-phone" name="contact-form-phone" value="" oninput="this.value = this.value.replace(/[^0-9+]/g, '');"
+													placeholder="Phone*"  required  autocomplete="off" />
+											</label>
+											<input type="hidden" id="phone_formate" value="1">
+																					<label>
+												<span class="sr-only">Email</span>
+												<input
+													class="email  required"
+													type="email" id="contact-form-email" name="contact-form-email" value=""
+													placeholder="Email*"  required  autocomplete="off"/>
+											</label>
+																					<label>
+												<span class="sr-only">Message</span>
+												<textarea
+													class=""
+													id="contact-form-message" name="contact-form-message"
+													placeholder="Message" ></textarea>
+											</label>
+																				<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
+										<input id="stickyelements-submit-form" type="submit" name="contact-form-submit"
+											   value="Submit"
+											   style="background-color: #2596be;color:#FFFFFF;"/>
+																				<input type="hidden" name="nonce" value="6a3d2d21cbb4a17823941456a3d2d21cbb4f">
+										<input type="hidden" name="form_id"
+											   value="22fe42aaf8">
+										<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.regentgrouporg.com/events/" />
+										
+									</form>
+								</div>
+							</li>
+											</ul>					
+				</div>
+            </div>
+		</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl505764'},{'dcenter':'p3'},{'cp_id':'10049330'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

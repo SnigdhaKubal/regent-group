@@ -1,65 +1,396 @@
+"use client";
+
 import Image from "next/image";
+import Link from "next/link";
+import { useState, useEffect } from "react";
+import { ChevronLeft, ChevronRight, MessageCircle, MapPin, Car, Handshake, Users, ArrowRight, Briefcase, ShieldCheck, Target } from "lucide-react";
+
+const heroSlides = [
+  {
+    id: 1,
+    title: "Representing Global Automotive Excellence",
+    description: "With over two decades of automotive expertise, we are the trusted dealership network for premium global brands across the Mumbai and Thane regions.",
+    image: "https://images.unsplash.com/photo-1614200187524-dc4b892acf16?q=80&w=2000&auto=format&fit=crop"
+  },
+  {
+    id: 2,
+    title: "Driving the Future of Mobility",
+    description: "Experience unparalleled service, cutting-edge vehicles, and a commitment to customer satisfaction at every Regent Group touch point.",
+    image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=2000&auto=format&fit=crop"
+  }
+];
+
+const brands = [
+  { name: "Honda", url: "http://www.regenthonda.co.in" },
+  { name: "MG", url: "https://www.mgthane.co.in" },
+  { name: "Skoda", url: "http://www.regentskoda.com" },
+  { name: "Toyota", url: "http://www.regenttoyota.com" },
+  { name: "MG Select", url: "https://www.mgselect.co.in/" },
+  { name: "Tata Motors", url: "https://www.regenttata.in/" },
+];
 
 export default function Home() {
+  const [currentSlide, setCurrentSlide] = useState(0);
+
+  const nextSlide = () => {
+    setCurrentSlide((prev) => (prev + 1) % heroSlides.length);
+  };
+
+  const prevSlide = () => {
+    setCurrentSlide((prev) => (prev === 0 ? heroSlides.length - 1 : prev - 1));
+  };
+
+  useEffect(() => {
+    const timer = setInterval(nextSlide, 8000);
+    return () => clearInterval(timer);
+  }, []);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="flex flex-col min-h-screen relative">
+      {/* WhatsApp Floating Button */}
+      <a
+        href="https://wa.me/1234567890"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-6 right-6 z-50 flex items-center gap-2 group"
+      >
+        <div className="bg-white px-4 py-2 rounded-full shadow-lg text-sm font-medium text-slate-700 opacity-0 group-hover:opacity-100 transition-opacity translate-x-4 group-hover:translate-x-0 duration-300">
+          Contact us
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+        <div className="bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform">
+          <MessageCircle className="h-6 w-6" />
+        </div>
+      </a>
+
+      {/* 1. Corporate Hero Section with Slider */}
+      <section className="relative min-h-[85vh] w-full flex items-center justify-center overflow-hidden bg-primary">
+        {/* Sliding Background Images & Content */}
+        {heroSlides.map((slide, index) => (
+          <div
+            key={slide.id}
+            className={`absolute inset-0 transition-opacity duration-1000 flex items-center justify-center ${
+              index === currentSlide ? "opacity-100 z-10" : "opacity-0 z-0"
+            }`}
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+            <div
+              className="absolute inset-0 bg-cover bg-center opacity-40 mix-blend-overlay"
+              style={{ backgroundImage: `url(${slide.image})` }}
+              aria-hidden="true"
             />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            
+            {/* Dynamic Text Content per Slide */}
+            <div className="relative z-20 container mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center">
+              <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold tracking-tight text-white leading-tight max-w-4xl mb-6">
+                {slide.title}
+              </h1>
+
+              <p className="text-lg md:text-xl text-slate-300 max-w-2xl font-sans leading-relaxed mb-10">
+                {slide.description}
+              </p>
+
+              {/* Action Buttons */}
+              <div className="flex flex-col sm:flex-row gap-4 mb-16 w-full sm:w-auto">
+                <Link
+                  href="/touch-points"
+                  className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-primary bg-white hover:bg-slate-100 transition-colors shadow-sm w-full sm:w-auto"
+                >
+                  Find a Touch Point
+                </Link>
+                <Link
+                  href="/contact-us"
+                  className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white border border-white/30 hover:bg-white/10 transition-colors w-full sm:w-auto"
+                >
+                  Contact Us
+                </Link>
+              </div>
+            </div>
+          </div>
+        ))}
+
+        {/* Slider Controls */}
+        <button
+          onClick={prevSlide}
+          className="absolute left-4 top-1/2 -translate-y-1/2 z-30 p-2 text-white/70 hover:text-white transition-colors"
+          aria-label="Previous slide"
+        >
+          <ChevronLeft className="h-10 w-10" />
+        </button>
+        <button
+          onClick={nextSlide}
+          className="absolute right-4 top-1/2 -translate-y-1/2 z-30 p-2 text-white/70 hover:text-white transition-colors"
+          aria-label="Next slide"
+        >
+          <ChevronRight className="h-10 w-10" />
+        </button>
+      </section>
+
+      {/* Trust Statistics Section */}
+      <section className="py-12 md:py-16 bg-white border-b border-border/50 relative z-10">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6">
+              Trusted By Leading Automotive Brands
+            </h2>
+            <div className="w-16 h-1 bg-accent mx-auto mb-6"></div>
+            <p className="text-lg text-slate-600 leading-relaxed">
+              For over two decades, Regent Group has grown from a single showroom to a premier automotive retail powerhouse. Our unwavering commitment to operational excellence and customer satisfaction has made us the partner of choice for the world's most respected automotive manufacturers.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {[
+              { number: "20+", label: "Years Experience" },
+              { number: "4+", label: "Global Automotive Brands" },
+              { number: "Multiple", label: "Locations" },
+              { number: "Thousands", label: "Customer Interactions" }
+            ].map((stat, i) => (
+              <div 
+                key={i} 
+                className="group flex flex-col items-center justify-center p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-accent/30 hover:shadow-md hover:bg-white transition-all duration-300"
+              >
+                <div className="text-4xl md:text-5xl font-heading font-bold text-accent mb-3 group-hover:scale-105 transition-transform duration-300">
+                  {stat.number}
+                </div>
+                <div className="text-sm md:text-base font-semibold text-primary uppercase tracking-wider text-center">
+                  {stat.label}
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
-      </main>
+      </section>
+
+      {/* 2. Interactive Brand Dealerships Banner */}
+      <section id="brands" className="py-12 bg-muted/30 border-y border-border/50">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <h2 className="text-center text-3xl md:text-4xl font-heading font-bold text-primary tracking-tight uppercase mb-12">
+            OUR DEALERSHIPS
+          </h2>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 items-center justify-items-center opacity-80">
+            {brands.map((brand) => (
+              <a
+                key={brand.name}
+                href={brand.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex flex-col items-center gap-4 transition-all hover:opacity-100 hover:scale-105"
+              >
+                <div className="w-40 h-20 bg-white rounded-lg shadow-sm border border-border flex items-center justify-center text-xl font-heading font-bold text-primary group-hover:border-accent group-hover:shadow-md transition-all">
+                  {brand.name}
+                </div>
+                <span className="text-sm font-medium text-muted-foreground group-hover:text-primary transition-colors">
+                  Visit Website &rarr;
+                </span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 3. What We Do */}
+      <section className="py-12 md:py-16 bg-white border-b border-border/50">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
+              What We Do
+            </h2>
+            <div className="w-16 h-1 bg-accent mx-auto"></div>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {[
+              {
+                title: "Customer Touch Point",
+                desc: "Strategic network of premium dealership locations ensuring unparalleled accessibility.",
+                icon: MapPin,
+                link: "/touch-points"
+              },
+              {
+                title: "Automotive Retail Operations",
+                desc: "End-to-end sales and service operations driven by operational excellence.",
+                icon: Car,
+                link: "/touch-points"
+              },
+              {
+                title: "Brand Partnerships",
+                desc: "Representing global automotive leaders through trusted, long-term collaboration.",
+                icon: Handshake,
+                link: "#brands"
+              },
+              {
+                title: "Customer Experience Management",
+                desc: "Crafting memorable journeys and fostering lifelong loyalty for every client.",
+                icon: Users,
+                link: "/about-us"
+              }
+            ].map((service, i) => (
+              <article 
+                key={i}
+                className="group flex flex-col bg-white border border-slate-200 hover:border-slate-300 rounded-xl p-8 shadow-sm hover:shadow-md transition-all duration-300"
+              >
+                <div className="h-12 w-12 rounded-lg bg-slate-50 border border-slate-100 flex items-center justify-center text-primary mb-6 group-hover:bg-primary group-hover:text-white transition-all duration-300">
+                  <service.icon className="h-6 w-6" />
+                </div>
+                <h3 className="text-xl font-heading font-bold text-primary mb-3">
+                  {service.title}
+                </h3>
+                <p className="text-slate-600 leading-relaxed mb-8 flex-grow">
+                  {service.desc}
+                </p>
+                <Link 
+                  href={service.link}
+                  className="inline-flex items-center text-sm font-semibold text-primary group-hover:text-accent transition-colors mt-auto"
+                >
+                  Learn More <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 4. About Regent Group */}
+      <section className="py-12 md:py-16 bg-slate-50 border-b border-border/50">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start">
+            
+            {/* Left: Company Story */}
+            <div className="flex flex-col">
+              <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary tracking-tight mb-6">
+                About Regent Group
+              </h2>
+              <div className="w-16 h-1 bg-accent mb-10"></div>
+              
+              <div className="space-y-6 text-slate-600 font-sans text-lg leading-relaxed mb-10">
+                <p>
+                  Regent Group was established to redefine automotive retail and customer experience. As a premier automotive dealership network, we operate strategically across the Mumbai and Thane regions, representing some of the world's most trusted manufacturers.
+                </p>
+                <p>
+                  Our foundation is built on operational excellence, integrity, and long-term partnerships. We provide a comprehensive suite of automotive services—from vehicle sales to insurance and specialized after-sales support—ensuring that every client interaction meets the highest standard of professionalism.
+                </p>
+              </div>
+
+              <Link 
+                href="/about-us" 
+                className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-primary hover:bg-secondary transition-colors w-max"
+              >
+                Learn More
+              </Link>
+            </div>
+
+            {/* Right: Key Milestones Timeline */}
+            <div className="flex flex-col bg-white p-10 rounded-2xl shadow-sm border border-border/50">
+              <h3 className="text-2xl font-heading font-bold text-primary mb-10">
+                Key Milestones
+              </h3>
+              
+              <div className="relative border-l-2 border-slate-200 ml-3 space-y-10">
+                {[
+                  { year: "2014", event: "Journey begins" },
+                  { year: "2015", event: "Expansion into new markets" },
+                  { year: "2019", event: "MG partnership" },
+                  { year: "2023", event: "Toyota partnership" },
+                  { year: "2024", event: "Skoda partnership" }
+                ].map((milestone, i) => (
+                  <div key={i} className="relative pl-8">
+                    {/* Timeline Node */}
+                    <div className="absolute -left-[9px] top-1.5 w-4 h-4 rounded-full bg-white border-4 border-accent"></div>
+                    
+                    <div className="font-heading font-bold text-xl text-primary mb-1">
+                      {milestone.year}
+                    </div>
+                    <div className="text-slate-600 font-medium">
+                      {milestone.event}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      {/* 5. Why Regent Group */}
+      <section className="py-12 md:py-16 bg-white border-b border-border/50">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
+              Why Regent ?
+            </h2>
+            <div className="w-16 h-1 bg-accent mx-auto"></div>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            {[
+              {
+                title: "Industry Expertise",
+                desc: "With over two decades in the automotive sector, our deep market knowledge and industry foresight allow us to navigate complexities and consistently deliver superior results.",
+                icon: Briefcase
+              },
+              {
+                title: "Trusted Partnerships",
+                desc: "We have cultivated enduring relationships with global automotive giants, built on a foundation of mutual trust, transparency, and a shared vision for excellence.",
+                icon: ShieldCheck
+              },
+              {
+                title: "Operational Excellence",
+                desc: "Our highly optimized internal processes and rigorous quality standards ensure that every dealership runs seamlessly, maximizing both efficiency and customer satisfaction.",
+                icon: Target
+              }
+            ].map((feature, i) => (
+              <div 
+                key={i}
+                className="flex flex-col bg-slate-50 border border-slate-100 rounded-xl p-8 hover:border-slate-200 transition-colors duration-300"
+              >
+                <div className="h-14 w-14 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-primary mb-6">
+                  <feature.icon className="h-7 w-7 text-accent" />
+                </div>
+                <h3 className="text-xl font-heading font-bold text-primary mb-4">
+                  {feature.title}
+                </h3>
+                <p className="text-slate-600 leading-relaxed">
+                  {feature.desc}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 6. Corporate Leadership (Principals) */}
+      <section className="py-12 md:py-16 bg-white relative border-b border-border/50">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary uppercase tracking-widest mb-6">
+              Our Leadership
+            </h2>
+            <div className="w-16 h-1 bg-accent mx-auto mb-6"></div>
+          </div>
+
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 justify-items-center">
+            {[
+              { name: "Kamal Ailsinghani", title: "Chairman", img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=300&auto=format&fit=crop" },
+              { name: "Pawan Ailsinghani", title: "Managing Director", img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=300&auto=format&fit=crop" },
+              { name: "R. Chandrashekar", title: "Group Exec. Director", img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=300&auto=format&fit=crop" },
+              { name: "B. Sainath", title: "Group Director", img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=300&auto=format&fit=crop" },
+              { name: "Jayesh Parikh", title: "Group CFO", img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=300&auto=format&fit=crop" }
+            ].map((principal, i) => (
+              <div key={i} className="flex flex-col items-center text-center group">
+                <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden mb-5 border-4 border-slate-100 group-hover:border-accent group-hover:shadow-lg transition-all duration-300">
+                  <img
+                    src={principal.img}
+                    alt={principal.name}
+                    className="object-cover w-full h-full grayscale group-hover:grayscale-0 transition-all duration-500 transform group-hover:scale-110"
+                  />
+                </div>
+                <h3 className="text-base font-bold font-heading text-primary leading-tight">{principal.name}</h3>
+                <p className="text-xs text-muted-foreground uppercase tracking-wider font-semibold mt-2">{principal.title}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
