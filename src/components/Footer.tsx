@@ -25,12 +25,12 @@ export function Footer() {
   }, []);
 
   return (
-    <footer className="w-full bg-[#0F172A] text-white pt-16 pb-8 font-sans selection:bg-[#D4AF37] selection:text-[#0F172A]">
+    <footer className="w-full bg-[#0F172A] text-white pt-8 pb-4 font-sans selection:bg-[#D4AF37] selection:text-[#0F172A]">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-[1400px]">
         {/* Top Header Section */}
         <div className="border-t border-b border-[#D4AF37]/30 py-10 mb-16 text-center relative">
 
-          <h2 className="font-heading text-4xl md:text-5xl lg:text-7xl font-normal text-white mb-6 tracking-wide pt-6">
+          <h2 className="font-heading text-4xl md:text-3xl lg:text-6xl font-normal text-white tracking-wide">
             THE REGENT GROUP DISPATCH
           </h2>
 
@@ -52,8 +52,8 @@ export function Footer() {
               <span className="text-[#D4AF37] text-4xl float-left mr-3 font-heading leading-tight mt-1">R</span>
               egent Group is a trusted dealership for premium brands in the Mumbai and Thane regions. Backed by two decades of automotive expertise, we build experiences that feel as premium as the vehicles we represent — rooted in excellence, reaching everywhere.
             </p>
-            
-          </div>         
+
+          </div>
 
           {/* Column 3: Correspondence */}
           <div className="lg:px-10">

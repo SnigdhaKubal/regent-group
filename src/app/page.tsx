@@ -63,12 +63,12 @@ const heroSlides = [
 ];
 
 const brands = [
-  { name: "Honda", url: "http://www.regenthonda.co.in" },
-  { name: "MG", url: "https://www.mgthane.co.in" },
-  { name: "Skoda", url: "http://www.regentskoda.com" },
-  { name: "Toyota", url: "http://www.regenttoyota.com" },
-  { name: "MG Select", url: "https://www.mgselect.co.in/" },
-  { name: "Tata Motors", url: "https://www.regenttata.in/" },
+  { name: "Honda", url: "http://www.regenthonda.co.in", logo: "/regentHonda.webp" },
+  { name: "MG", url: "https://www.mgthane.co.in", logo: "/morrisGarages.png" },
+  { name: "Skoda", url: "http://www.regentskoda.com", logo: "/regentSkoda.png" },
+  { name: "Toyota", url: "http://www.regenttoyota.com", logo: "/regentToyota" },
+  { name: "MG Select", url: "https://www.mgselect.co.in/", logo: "/select.png" },
+  { name: "Tata Motors", url: "https://www.regenttata.in/", logo: "/regentTataMotors.webp" },
 ];
 
 export default function Home() {
@@ -216,8 +216,8 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="group flex flex-col items-center gap-4 transition-all hover:opacity-100 hover:scale-105"
               >
-                <div className="w-40 h-20 bg-white rounded-lg shadow-sm border border-border flex items-center justify-center text-xl font-heading font-bold text-primary group-hover:border-accent group-hover:shadow-md transition-all">
-                  {brand.name}
+                <div className="w-[160px] h-[100px] flex items-center justify-center group-hover:scale-105 transition-all">
+                  <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain drop-shadow-sm mix-blend-multiply" />
                 </div>
                 <span className="text-sm font-medium text-muted-foreground group-hover:text-primary transition-colors">
                   Visit Website &rarr;
@@ -233,7 +233,7 @@ export default function Home() {
         <div className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
-              What We Do
+              What We Do ?
             </h2>
             <div className="w-16 h-1 bg-accent mx-auto"></div>
           </div>
