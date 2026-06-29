@@ -428,6 +428,70 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Book Test Drive Section */}
+      <section className="py-8 md:py-12 bg-[#0F172A] border-b border-white/10">
+        <div className="w-full px-4 sm:px-6 lg:px-12">
+          <div className="text-center mb-8">
+            <h3 className="text-[#D4AF37] text-xs uppercase tracking-widest mb-3 font-semibold">
+              Quick Inquiry
+            </h3>
+            <h2 className="text-white text-2xl font-heading mb-1">
+              Book Your Test Drive
+            </h2>
+            <p className="text-slate-400 text-sm">Experience our premium collection</p>
+          </div>
+
+          <div className="max-w-xl mx-auto">
+            <form className="space-y-4">
+              <div className="grid md:grid-cols-2 gap-4">
+                <input
+                  type="text"
+                  placeholder="Full Name"
+                  className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
+                  required
+                />
+                <input
+                  type="tel"
+                  placeholder="Phone Number"
+                  className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
+                  required
+                />
+              </div>
+
+              <input
+                type="email"
+                placeholder="Email Address"
+                className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
+                required
+              />
+
+              <div className="grid md:grid-cols-2 gap-4">
+                <select className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors">
+                  <option value="" className="text-slate-900">Select Brand</option>
+                  <option value="honda" className="text-slate-900">Honda</option>
+                  <option value="toyota" className="text-slate-900">Toyota</option>
+                  <option value="mg" className="text-slate-900">MG Motors</option>
+                  <option value="skoda" className="text-slate-900">Skoda</option>
+                  <option value="tata" className="text-slate-900">Tata Motors</option>
+                </select>
+                <select className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors">
+                  <option value="" className="text-slate-900">Select Location</option>
+                  <option value="mumbai" className="text-slate-900">Mumbai</option>
+                  <option value="thane" className="text-slate-900">Thane</option>
+                </select>
+              </div>
+
+              <button
+                type="submit"
+                className="w-full px-6 py-2 bg-[#D4AF37] text-[#0F172A] font-semibold text-sm rounded hover:bg-[#E5C158] transition-colors duration-300"
+              >
+                Book Test Drive
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
