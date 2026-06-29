@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState, useEffect } from "react";
-import { ChevronLeft, ChevronRight, MessageCircle, MapPin, Car, Handshake, Users, ArrowRight, Briefcase, ShieldCheck, Target } from "lucide-react";
+import { ChevronLeft, ChevronRight, MapPin, Car, Handshake, Users, ArrowRight, Briefcase, ShieldCheck, Target } from "lucide-react";
 
 const heroSlides = [
   {
@@ -89,30 +89,14 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen relative">
-      {/* WhatsApp Floating Button */}
-      <a
-        href="https://wa.me/1234567890"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="fixed bottom-6 right-6 z-50 flex items-center gap-2 group"
-      >
-        <div className="bg-white px-4 py-2 rounded-full shadow-lg text-sm font-medium text-slate-700 opacity-0 group-hover:opacity-100 transition-opacity translate-x-4 group-hover:translate-x-0 duration-300">
-          Contact us
-        </div>
-        <div className="bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform">
-          <MessageCircle className="h-6 w-6" />
-        </div>
-      </a>
-
       {/* 1. Corporate Hero Section with Slider */}
       <section className="relative min-h-[85vh] w-full flex items-center justify-center overflow-hidden bg-primary">
         {/* Sliding Background Images & Content */}
         {heroSlides.map((slide, index) => (
           <div
             key={slide.id}
-            className={`absolute inset-0 transition-opacity duration-1000 flex items-center justify-center ${
-              index === currentSlide ? "opacity-100 z-10" : "opacity-0 z-0"
-            }`}
+            className={`absolute inset-0 transition-opacity duration-1000 flex items-center justify-center ${index === currentSlide ? "opacity-100 z-10" : "opacity-0 z-0"
+              }`}
           >
             {/* Background Image */}
             <div
@@ -120,7 +104,7 @@ export default function Home() {
               style={{ backgroundImage: `url(${slide.image})` }}
               aria-hidden="true"
             />
-            
+
             {/* Dynamic Text Content per Slide */}
             <div className="relative z-20 w-full px-4 sm:px-6 lg:px-12 flex flex-col items-center text-center">
 
@@ -147,6 +131,28 @@ export default function Home() {
             </div>
           </div>
         ))}
+
+        {/* Bottom Statistics Bar */}
+        <div className="absolute bottom-6 left-0 right-0 z-20 w-full px-4 sm:px-6 lg:px-12">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 max-w-4xl mx-auto">
+            <div className="flex flex-col items-center text-center">
+              <div className="text-lg md:text-xl font-bold text-white">32,934+</div>
+              <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">New Cars Sold</div>
+            </div>
+            <div className="flex flex-col items-center text-center">
+              <div className="text-lg md:text-xl font-bold text-white">2,592+</div>
+              <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">Pre-Owned Cars Sold</div>
+            </div>
+            <div className="flex flex-col items-center text-center">
+              <div className="text-lg md:text-xl font-bold text-white">108,360+</div>
+              <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">Service Visits</div>
+            </div>
+            <div className="flex flex-col items-center text-center">
+              <div className="text-lg md:text-xl font-bold text-white">58,200+</div>
+              <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">Cars Insured</div>
+            </div>
+          </div>
+        </div>
 
         {/* Slider Controls */}
         <button

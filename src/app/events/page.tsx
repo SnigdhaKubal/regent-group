@@ -14,7 +14,7 @@ const categories = [
   "MG Astor",
 ];
 
-// Dummy "bot images" for each category
+// images for each category
 const categoryImages: Record<string, string[]> = {
   "MG Events": [
     "/EVENTS/MGevents1.webp",

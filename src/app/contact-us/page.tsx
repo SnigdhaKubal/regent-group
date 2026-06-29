@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { MapPin, Phone, Mail, Clock } from "lucide-react";
+import { MapPin, Phone, Mail, Clock, Navigation } from "lucide-react";
 import { Breadcrumb } from "@/components/Breadcrumb";
 
 export const metadata: Metadata = {
@@ -49,12 +49,15 @@ export default function ContactUsPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">Thane Office</h3>
-                      <address className="not-italic text-slate-600 leading-relaxed">
+                      <address className="not-italic text-slate-600 leading-relaxed mb-3">
                         Shop No 16 A, Dosti Imperia,<br />
                         Ghodbunder Rd, Opp. R Mall,<br />
                         Thane West, Thane,<br />
                         Maharashtra 400610
                       </address>
+                      <a href="https://www.google.com/maps/search/?api=1&query=Regent+Group+DOSTI+IMPERIA+Thane" target="_blank" rel="noopener noreferrer" className="text-sm font-bold text-[#0F172A] uppercase tracking-wider flex items-center hover:text-[#D4AF37] transition-colors">
+                        <Navigation className="h-4 w-4 mr-1.5" /> Get Directions
+                      </a>
                     </div>
                   </div>
 
@@ -65,12 +68,15 @@ export default function ContactUsPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">Navi Mumbai Office</h3>
-                      <address className="not-italic text-slate-600 leading-relaxed">
+                      <address className="not-italic text-slate-600 leading-relaxed mb-3">
                         D-238, near Uran Phata Flyover,<br />
                         T.T.C. Industrial Area, Shiravane, Nerul,<br />
                         Navi Mumbai,<br />
                         Maharashtra 400706
                       </address>
+                      <a href="https://www.google.com/maps/search/?api=1&query=Regent+Group+Uran+Phata+Nerul+Navi+Mumbai" target="_blank" rel="noopener noreferrer" className="text-sm font-bold text-[#0F172A] uppercase tracking-wider flex items-center hover:text-[#D4AF37] transition-colors">
+                        <Navigation className="h-4 w-4 mr-1.5" /> Get Directions
+                      </a>
                     </div>
                   </div>
                 </div>

@@ -39,7 +39,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 lg:gap-0 lg:divide-x divide-white/10 border-b border-white/10 pb-16">
 
           {/* Column 1: About */}
-          <div className="lg:pr-10">
+          <div className="lg:pr-16">
             <h3 className="text-[#D4AF37] text-xs uppercase tracking-widest mb-6 font-semibold">
               About The Group
             </h3>
@@ -127,7 +127,7 @@ export function Footer() {
         </div>
 
         {/* Bottom Footer Bar */}
-        <div className="pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] uppercase tracking-widest text-slate-500">
+        <div className="pt-8 flex flex-col md:flex-row items-center gap-4 md:gap-8 text-[10px] uppercase tracking-widest text-slate-500">
           <div>
             &copy; {new Date().getFullYear()} Regent Group. Mumbai, India - Est. 2014
           </div>
