@@ -216,7 +216,7 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="group flex flex-col items-center gap-4 transition-all hover:opacity-100 hover:scale-105"
               >
-                <div className="w-[160px] h-[100px] flex items-center justify-center group-hover:scale-105 transition-all">
+                <div className="w-full max-w-[180px] h-[120px] md:max-w-[220px] md:h-[140px] flex items-center justify-center group-hover:scale-105 transition-all">
                   <img src={brand.logo} alt={brand.name} className="w-full h-full object-contain drop-shadow-sm mix-blend-multiply" />
                 </div>
                 <span className="text-sm font-medium text-muted-foreground group-hover:text-primary transition-colors">

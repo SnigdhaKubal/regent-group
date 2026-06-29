@@ -33,11 +33,6 @@ export function Footer() {
           <h2 className="font-heading text-4xl md:text-3xl lg:text-6xl font-normal text-white tracking-wide">
             THE REGENT GROUP DISPATCH
           </h2>
-
-          <div className="hidden md:flex absolute right-4 top-4 border border-[#D4AF37]/30 rounded-full px-4 py-1.5 text-[10px] text-[#D4AF37] uppercase tracking-widest items-center gap-2">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37]"></span>
-            MUMBAI, INDIA
-          </div>
         </div>
 
         {/* 4 Column Layout */}
@@ -50,7 +45,10 @@ export function Footer() {
             </h3>
             <p className="text-slate-300 text-sm leading-relaxed text-justify mb-6">
               <span className="text-[#D4AF37] text-4xl float-left mr-[2px] font-heading leading-tight mt-1">R</span>
-              egent Group is a trusted dealership for premium brands in the Mumbai and Thane regions. Backed by two decades of automotive expertise, we build experiences that feel as premium as the vehicles we represent — rooted in excellence, reaching everywhere.
+              egent Group is a trusted dealership for premium brands in the Mumbai and Thane regions.
+              Backed by two decades of automotive expertise,
+              we build experiences that feel as premium as the vehicles we represent rooted in excellence,
+              reaching everywhere.
             </p>
 
           </div>
