@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import { Breadcrumb } from "@/components/Breadcrumb";
 
@@ -10,8 +10,6 @@ const categories = [
   "MG Events",
   "Regent Skoda",
   "Regent Toyota",
-  "Regent Tata",
-  "Regent Honda",
   "MG MG Hector",
   "MG Astor",
 ];
@@ -19,46 +17,34 @@ const categories = [
 // Dummy "bot images" for each category
 const categoryImages: Record<string, string[]> = {
   "MG Events": [
-    "https://images.unsplash.com/photo-1549317661-bd32c8ce0afa?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1611016186353-652e57552816?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?q=80&w=800&auto=format&fit=crop",
+    "/EVENTS/MGevents1.webp",
+    "/EVENTS/MGevents2.webp",
+    "/EVENTS/MGevents3.webp",
+    "/EVENTS/MGevents4.webp",
   ],
   "Regent Skoda": [
-    "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800&auto=format&fit=crop",
+    "/EVENTS/SKODAevents1.webp",
+    "/EVENTS/SKODAevents2.webp",
+    "/EVENTS/SKODAevents3.webp",
+    "/EVENTS/SKODAevents4.webp",
   ],
   "Regent Toyota": [
-    "https://images.unsplash.com/photo-1549317661-bd32c8ce0afa?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=800&auto=format&fit=crop",
-  ],
-  "Regent Tata": [
-    "https://images.unsplash.com/photo-1531058020387-3be344556be6?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1587825140708-dfaf18c4f4d4?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1515187029135-18ee286d815b?q=80&w=800&auto=format&fit=crop",
-  ],
-  "Regent Honda": [
-    "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1523580494863-6f3031224c94?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1587825140708-dfaf18c4f4d4?q=80&w=800&auto=format&fit=crop",
+    "/EVENTS/TOYOTAevents1.webp",
+    "/EVENTS/TOYOTAevents2.webp",
+    "/EVENTS/TOYOTAevents3.webp",
+    "/EVENTS/TOYOTAevents4.webp",
   ],
   "MG MG Hector": [
-    "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?q=80&w=800&auto=format&fit=crop",
+    "/EVENTS/HECTORevents1.webp",
+    "/EVENTS/HECTORevents2.webp",
+    "/EVENTS/HECTORevents3.webp",
+    "/EVENTS/HECTORevents4.webp",
   ],
   "MG Astor": [
-    "https://images.unsplash.com/photo-1587825140708-dfaf18c4f4d4?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1531058020387-3be344556be6?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1523580494863-6f3031224c94?q=80&w=800&auto=format&fit=crop",
+    "/EVENTS/ASTORevents1.webp",
+    "/EVENTS/ASTORevents2.webp",
+    "/EVENTS/ASTORevents3.webp",
+    "/EVENTS/ASTORevents4.webp",
   ],
 };
 
@@ -84,6 +70,18 @@ export default function EventsPage() {
       lightboxIndex === currentImages.length - 1 ? 0 : lightboxIndex + 1
     );
   };
+
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        closeLightbox();
+      }
+    };
+    if (lightboxIndex !== null) {
+      window.addEventListener("keydown", handleKeyDown);
+    }
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [lightboxIndex]);
 
   return (
     <main className="flex min-h-screen flex-col bg-white">
@@ -159,7 +157,7 @@ export default function EventsPage() {
                     <img
                       src={img}
                       alt={`${currentCategory} – Photo ${i + 1}`}
-                      className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                      className="w-full h-full object-cover object-[center_20%] transition-transform duration-500 group-hover:scale-110"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-3">
                       <span className="text-white text-sm font-medium">View photo</span>

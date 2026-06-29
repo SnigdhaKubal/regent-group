@@ -11,7 +11,7 @@ export default function ContactUsPage() {
   return (
     <main className="flex min-h-screen flex-col bg-slate-50">
       {/* Corporate Header */}
-      <section className="relative bg-[#0F172A] py-24 sm:py-32 overflow-hidden">
+      <section className="relative bg-[#0F172A] py-12 sm:py-16 overflow-hidden">
         <div className="absolute inset-0 opacity-10 bg-slate-800" />
         <div className="container relative z-10 mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
           <div className="mb-8">

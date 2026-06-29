@@ -70,10 +70,13 @@ export default function CSRPage() {
               </div>
             </div>
 
-            <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl bg-slate-200 border-2 border-dashed border-slate-300 flex items-center justify-center p-8 text-center">
-              <span className="text-slate-500 font-medium text-lg z-10">
-                [Original Regent Group Hospital Image Placeholder]
-              </span>
+            <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl bg-slate-200">
+              <Image 
+                src="/CSR.webp" 
+                alt="Meera Hospital, Ulhasnagar" 
+                fill 
+                className="object-cover"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0F172A]/80 to-transparent flex items-end p-8 z-20">
                 <div>
                   <div className="inline-flex items-center gap-2 bg-[#D4AF37] text-white px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-3">

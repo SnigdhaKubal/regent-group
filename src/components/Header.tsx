@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const navLinks = [
   { name: "Home", href: "/" },
@@ -12,13 +13,18 @@ const navLinks = [
 export function Header() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border/50 bg-white shadow-sm">
-      <div className="flex h-20 w-full items-center justify-between px-4 sm:px-6 lg:px-12">
+      <div className="flex h-24 w-full items-center justify-between px-4 sm:px-6 lg:px-12">
         <div className="flex items-center gap-2">
-          {/* Logo Placeholder */}
+          {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <span className="font-heading text-3xl font-bold tracking-tight text-primary uppercase">
-              Regent
-            </span>
+            <Image 
+              src="/REGENTlogo.webp" 
+              alt="Regent Group Logo" 
+              width={240} 
+              height={80} 
+              className="object-contain object-left"
+              priority
+            />
           </Link>
         </div>
 
