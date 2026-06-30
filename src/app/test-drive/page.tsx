@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import { FadeIn } from "@/components/FadeIn";
+import { Breadcrumb } from "@/components/Breadcrumb";
 
 export const metadata: Metadata = {
   title: "Book a Test Drive | Regent Group",
@@ -28,6 +29,11 @@ export default function TestDrivePage() {
         
         <FadeIn className="container relative z-10 mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl h-full flex flex-col items-center">
           
+          {/* Breadcrumb */}
+          <div className="w-full mb-8 opacity-70 hover:opacity-100 transition-opacity [&_nav]:text-slate-300 [&_a:hover]:text-[#D4AF37] [&_span[aria-current]]:text-white">
+            <Breadcrumb items={[{ label: "Test Drive" }]} />
+          </div>
+
           <div className="text-center mb-12">
             <h3 className="text-[#D4AF37] text-sm uppercase tracking-[0.2em] mb-4 font-semibold">
               Quick Inquiry
