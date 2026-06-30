@@ -131,26 +131,27 @@ export default function ContactUsPage() {
               <h2 className="text-2xl font-heading font-bold text-[#0F172A] mb-2">Send us a Message</h2>
               <p className="text-slate-500 mb-8">Our executive team will respond to your inquiry promptly.</p>
 
-              <form className="space-y-6">
+              <form action="https://api.web3forms.com/submit" method="POST" className="space-y-6">
+                <input type="hidden" name="access_key" value="a3316e2f-ea71-4c3e-9da8-e9e1875d58b4" />
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label htmlFor="firstName" className="text-sm font-semibold text-[#0F172A]">First Name</label>
-                    <input type="text" id="firstName" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="John" />
+                    <input type="text" id="firstName" name="firstName" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="John" required />
                   </div>
                   <div className="space-y-2">
                     <label htmlFor="lastName" className="text-sm font-semibold text-[#0F172A]">Last Name</label>
-                    <input type="text" id="lastName" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="Doe" />
+                    <input type="text" id="lastName" name="lastName" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="Doe" required />
                   </div>
                 </div>
 
                 <div className="space-y-2">
                   <label htmlFor="email" className="text-sm font-semibold text-[#0F172A]">Corporate Email</label>
-                  <input type="email" id="email" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="john.doe@company.com" />
+                  <input type="email" id="email" name="email" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="john.doe@company.com" required />
                 </div>
 
                 <div className="space-y-2">
                   <label htmlFor="subject" className="text-sm font-semibold text-[#0F172A]">Inquiry Type</label>
-                  <select id="subject" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background">
+                  <select id="subject" name="subject" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" required>
                     <option>General Inquiry</option>
                     <option>Vehicle Sales</option>
                     <option>Service & Maintenance</option>
@@ -161,10 +162,10 @@ export default function ContactUsPage() {
 
                 <div className="space-y-2">
                   <label htmlFor="message" className="text-sm font-semibold text-[#0F172A]">Message</label>
-                  <textarea id="message" rows={5} className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background resize-none" placeholder="How can we help you?"></textarea>
+                  <textarea id="message" name="message" rows={5} className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background resize-none" placeholder="How can we help you?" required></textarea>
                 </div>
 
-                <button type="button" className="w-full bg-[#0F172A] hover:bg-[#1E293B] text-white font-bold py-4 rounded-lg transition-colors">
+                <button type="submit" className="w-full bg-[#0F172A] hover:bg-[#1E293B] text-white font-bold py-4 rounded-lg transition-colors">
                   Submit Inquiry
                 </button>
               </form>

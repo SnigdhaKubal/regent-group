@@ -444,16 +444,19 @@ export default function Home() {
           </div>
 
           <div className="max-w-xl mx-auto">
-            <form className="space-y-4">
+            <form action="https://api.web3forms.com/submit" method="POST" className="space-y-4">
+              <input type="hidden" name="access_key" value="a3316e2f-ea71-4c3e-9da8-e9e1875d58b4" />
               <div className="grid md:grid-cols-2 gap-4">
                 <input
                   type="text"
+                  name="name"
                   placeholder="Full Name"
                   className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
                   required
                 />
                 <input
                   type="tel"
+                  name="phone"
                   placeholder="Phone Number"
                   className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
                   required
@@ -462,13 +465,14 @@ export default function Home() {
 
               <input
                 type="email"
+                name="email"
                 placeholder="Email Address"
                 className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
                 required
               />
 
               <div className="grid md:grid-cols-2 gap-4">
-                <select className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors">
+                <select name="brand" className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors" required>
                   <option value="" className="text-slate-900">Select Brand</option>
                   <option value="honda" className="text-slate-900">Honda</option>
                   <option value="toyota" className="text-slate-900">Toyota</option>
@@ -476,7 +480,7 @@ export default function Home() {
                   <option value="skoda" className="text-slate-900">Skoda</option>
                   <option value="tata" className="text-slate-900">Tata Motors</option>
                 </select>
-                <select className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors">
+                <select name="location" className="px-4 py-2 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors" required>
                   <option value="" className="text-slate-900">Select Location</option>
                   <option value="mumbai" className="text-slate-900">Mumbai</option>
                   <option value="thane" className="text-slate-900">Thane</option>

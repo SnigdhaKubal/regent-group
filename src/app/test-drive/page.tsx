@@ -41,16 +41,19 @@ export default function TestDrivePage() {
           </div>
 
           <div className="w-full max-w-2xl">
-            <form className="space-y-4">
+            <form action="https://api.web3forms.com/submit" method="POST" className="space-y-4">
+              <input type="hidden" name="access_key" value="a3316e2f-ea71-4c3e-9da8-e9e1875d58b4" />
               <div className="grid md:grid-cols-2 gap-4">
                 <input
                   type="text"
+                  name="name"
                   placeholder="Full Name"
                   className="w-full px-5 py-3 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
                   required
                 />
                 <input
                   type="tel"
+                  name="phone"
                   placeholder="Phone Number"
                   className="w-full px-5 py-3 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
                   required
@@ -59,6 +62,7 @@ export default function TestDrivePage() {
 
               <input
                 type="email"
+                name="email"
                 placeholder="Email Address"
                 className="w-full px-5 py-3 bg-white/5 border border-white/10 rounded text-white text-sm placeholder-slate-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
                 required
@@ -67,6 +71,7 @@ export default function TestDrivePage() {
               <div className="grid md:grid-cols-2 gap-4">
                 <div className="relative">
                   <select 
+                    name="brand"
                     className="w-full px-5 py-3 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors appearance-none"
                     required
                   >
@@ -84,6 +89,7 @@ export default function TestDrivePage() {
                 
                 <div className="relative">
                   <select 
+                    name="location"
                     className="w-full px-5 py-3 bg-white/5 border border-white/10 rounded text-white text-sm focus:outline-none focus:border-[#D4AF37]/50 transition-colors appearance-none"
                     required
                   >
