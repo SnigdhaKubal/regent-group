@@ -43,40 +43,44 @@ export default function ContactUsPage() {
 
                 <div className="space-y-8">
                   {/* Thane Office */}
-                  <div className="flex gap-4">
-                    <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
-                      <MapPin className="h-6 w-6" />
-                    </div>
-                    <div>
-                      <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">Thane Office</h3>
-                      <address className="not-italic text-slate-600 leading-relaxed mb-3">
-                        Shop No 16 A, Dosti Imperia,<br />
-                        Ghodbunder Rd, Opp. R Mall,<br />
-                        Thane West, Thane,<br />
-                        Maharashtra 400610
-                      </address>
-                      <a href="https://www.google.com/maps/search/?api=1&query=Regent+Group+DOSTI+IMPERIA+Thane" target="_blank" rel="noopener noreferrer" className="text-sm font-bold text-[#0F172A] uppercase tracking-wider flex items-center hover:text-[#D4AF37] transition-colors">
-                        <Navigation className="h-4 w-4 mr-1.5" /> Get Directions
-                      </a>
+                  <div className="flex flex-col gap-4">
+                    <div className="flex gap-4">
+                      <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                        <MapPin className="h-6 w-6" />
+                      </div>
+                      <div>
+                        <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">MG Motor Thane Showroom</h3>
+                        <address className="not-italic text-slate-600 leading-relaxed mb-3">
+                          Shop No.16, A, DOSTI IMPERIA,<br />
+                          Ghodbunder Rd, opposite R Mall,<br />
+                          Manpada, Thane West,<br />
+                          Maharashtra 400610
+                        </address>
+                        <a href="https://www.google.com/maps/search/?api=1&query=MG+Motor+Thane+Dosti+Imperia" className="inline-flex items-center text-[#D4AF37] hover:text-[#B78B1F] font-medium transition-colors">
+                          <Navigation className="h-4 w-4 mr-1.5" /> Get Directions
+                        </a>
+                      </div>
                     </div>
                   </div>
 
                   {/* Navi Mumbai Office */}
-                  <div className="flex gap-4">
-                    <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
-                      <MapPin className="h-6 w-6" />
-                    </div>
-                    <div>
-                      <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">Navi Mumbai Office</h3>
-                      <address className="not-italic text-slate-600 leading-relaxed mb-3">
-                        D-238, near Uran Phata Flyover,<br />
-                        T.T.C. Industrial Area, Shiravane, Nerul,<br />
-                        Navi Mumbai,<br />
-                        Maharashtra 400706
-                      </address>
-                      <a href="https://www.google.com/maps/search/?api=1&query=Regent+Group+Uran+Phata+Nerul+Navi+Mumbai" target="_blank" rel="noopener noreferrer" className="text-sm font-bold text-[#0F172A] uppercase tracking-wider flex items-center hover:text-[#D4AF37] transition-colors">
-                        <Navigation className="h-4 w-4 mr-1.5" /> Get Directions
-                      </a>
+                  <div className="flex flex-col gap-4">
+                    <div className="flex gap-4">
+                      <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                        <MapPin className="h-6 w-6" />
+                      </div>
+                      <div>
+                        <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">MG Motor Navi Mumbai Showroom</h3>
+                        <address className="not-italic text-slate-600 leading-relaxed mb-3">
+                          Plot No D-238, near Uran Phata Flyover,<br />
+                          TTC Industrial Area, Shiravane, Nerul,<br />
+                          Navi Mumbai,<br />
+                          Maharashtra 400706
+                        </address>
+                        <a href="https://www.google.com/maps/search/?api=1&query=MG+Motor+Navi+Mumbai+Plot+D-238" className="inline-flex items-center text-[#D4AF37] hover:text-[#B78B1F] font-medium transition-colors">
+                          <Navigation className="h-4 w-4 mr-1.5" /> Get Directions
+                        </a>
+                      </div>
                     </div>
                   </div>
                 </div>
