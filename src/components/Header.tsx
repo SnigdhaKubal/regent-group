@@ -7,6 +7,7 @@ const navLinks = [
   { name: "Touch Points", href: "/touch-points" },
   { name: "Events", href: "/events" },
   { name: "CSR Initiatives", href: "/csr-initiatives" },
+  { name: "Test Drive", href: "/test-drive" },
   { name: "Contact Us", href: "/contact-us" },
 ];
 
