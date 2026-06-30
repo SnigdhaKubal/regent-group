@@ -7,6 +7,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 /* ──────────────────────── DATA ──────────────────────── */
 
 const categories = [
+  "All",
   "MG Events",
   "Regent Skoda",
   "Regent Toyota",
@@ -51,11 +52,13 @@ const categoryImages: Record<string, string[]> = {
 /* ──────────────────────── PAGE COMPONENT ──────────────────────── */
 
 export default function EventsPage() {
-  const [activeTab, setActiveTab] = useState<number | null>(null);
+  const [activeTab, setActiveTab] = useState<number>(0);
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
 
-  const currentCategory = activeTab !== null ? categories[activeTab] : null;
-  const currentImages = currentCategory ? categoryImages[currentCategory] || [] : [];
+  const currentCategory = categories[activeTab];
+  const currentImages = currentCategory === "All"
+    ? Object.values(categoryImages).flat()
+    : categoryImages[currentCategory] || [];
 
   const closeLightbox = () => setLightboxIndex(null);
   const prevImage = () => {
@@ -105,7 +108,7 @@ export default function EventsPage() {
       </section>
 
       {/* Events Filter Buttons */}
-      <section className="border-b border-border/50 bg-slate-50 py-6 sticky top-20 z-40">
+      <section className="border-b border-border/50 bg-slate-50 py-4 sticky top-20 z-40">
         <div className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-12">
           <div className="flex flex-wrap justify-center gap-3 md:gap-4 items-center">
             {categories.map((category, idx) => {
@@ -134,7 +137,7 @@ export default function EventsPage() {
       </section>
 
       {/* Image Gallery */}
-      <section className="py-16 md:py-24">
+      <section className="py-8 md:py-12">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
           {currentCategory ? (
             <>
