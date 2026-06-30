@@ -37,9 +37,6 @@ export default function ContactUsPage() {
             {/* Left Column: Contact Details */}
             <div className="flex flex-col gap-12">
               <div>
-                <h2 className="text-2xl md:text-3xl font-heading font-bold text-[#0F172A] mb-8">
-                  Corporate Offices
-                </h2>
 
                 <div className="space-y-8">
                   {/* Thane Office */}
@@ -49,7 +46,7 @@ export default function ContactUsPage() {
                         <MapPin className="h-6 w-6" />
                       </div>
                       <div>
-                        <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">MG Motor Thane Showroom</h3>
+                        <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">Thane</h3>
                         <address className="not-italic text-slate-600 leading-relaxed mb-3">
                           Shop No.16, A, DOSTI IMPERIA,<br />
                           Ghodbunder Rd, opposite R Mall,<br />
@@ -70,7 +67,7 @@ export default function ContactUsPage() {
                         <MapPin className="h-6 w-6" />
                       </div>
                       <div>
-                        <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">MG Motor Navi Mumbai Showroom</h3>
+                        <h3 className="text-xl font-heading font-bold text-[#0F172A] mb-2">Navi Mumbai</h3>
                         <address className="not-italic text-slate-600 leading-relaxed mb-3">
                           Plot No D-238, near Uran Phata Flyover,<br />
                           TTC Industrial Area, Shiravane, Nerul,<br />

@@ -4,12 +4,12 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 
 export default function TouchPointsPage() {
   return (
-    <div className="container mx-auto px-4 py-24 max-w-5xl flex flex-col items-center">
+    <div className="container mx-auto px-4 py-12 max-w-5xl flex flex-col items-center">
       <div className="w-full flex justify-start mb-4">
         <Breadcrumb items={[{ label: "Touch Points" }]} />
       </div>
       <div className="text-center mb-16">
-        <h1 className="text-4xl md:text-5xl font-heading font-bold text-primary mb-6">
+        <h1 className="text-4xl md:text-5xl font-heading font-bold text-primary mb-4">
           Find Your Nearest Touch Point
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
