@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, MapPin, Car, Handshake, Users, ArrowRight, Briefcase, ShieldCheck, Target } from "lucide-react";
 import { FadeIn } from "@/components/FadeIn";
+import { AnimatedNumber } from "@/components/AnimatedNumber";
 
 const heroSlides = [
   {
@@ -137,19 +138,19 @@ export default function Home() {
         <div className="absolute bottom-6 left-0 right-0 z-20 w-full px-4 sm:px-6 lg:px-12">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 max-w-4xl mx-auto">
             <div className="flex flex-col items-center text-center">
-              <div className="text-lg md:text-xl font-bold text-white">32,934+</div>
+              <div className="text-lg md:text-xl font-bold text-white"><AnimatedNumber value={32934} />+</div>
               <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">New Cars Sold</div>
             </div>
             <div className="flex flex-col items-center text-center">
-              <div className="text-lg md:text-xl font-bold text-white">2,592+</div>
+              <div className="text-lg md:text-xl font-bold text-white"><AnimatedNumber value={2592} />+</div>
               <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">Pre-Owned Cars Sold</div>
             </div>
             <div className="flex flex-col items-center text-center">
-              <div className="text-lg md:text-xl font-bold text-white">108,360+</div>
+              <div className="text-lg md:text-xl font-bold text-white"><AnimatedNumber value={108360} />+</div>
               <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">Service Visits</div>
             </div>
             <div className="flex flex-col items-center text-center">
-              <div className="text-lg md:text-xl font-bold text-white">58,200+</div>
+              <div className="text-lg md:text-xl font-bold text-white"><AnimatedNumber value={58200} />+</div>
               <div className="text-[10px] md:text-xs font-semibold text-accent uppercase tracking-wide mt-0.5">Cars Insured</div>
             </div>
           </div>
@@ -187,8 +188,8 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { number: "10+", label: "Years Experience" },
-              { number: "4+", label: "Global Automotive Brands" },
+              { number: <><AnimatedNumber value={10} />+</>, label: "Years Experience" },
+              { number: <><AnimatedNumber value={4} />+</>, label: "Global Automotive Brands" },
               { number: "Multiple", label: "Locations" },
               { number: "Thousands", label: "Customer Interactions" }
             ].map((stat, i) => (
