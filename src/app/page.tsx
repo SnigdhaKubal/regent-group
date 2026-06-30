@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, MapPin, Car, Handshake, Users, ArrowRight, Briefcase, ShieldCheck, Target } from "lucide-react";
+import { FadeIn } from "@/components/FadeIn";
 
 const heroSlides = [
   {
@@ -173,7 +174,7 @@ export default function Home() {
 
       {/* Trust Statistics Section */}
       <section className="py-12 md:py-16 bg-white border-b border-border/50 relative z-10">
-        <div className="w-full px-4 sm:px-6 lg:px-12">
+        <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6">
               Trusted By Leading Automotive Brands
@@ -204,12 +205,12 @@ export default function Home() {
               </div>
             ))}
           </div>
-        </div>
+        </FadeIn>
       </section>
 
       {/* 2. Interactive Brand Dealerships Banner */}
       <section id="brands" className="py-12 bg-muted/30 border-y border-border/50">
-        <div className="w-full px-4 sm:px-6 lg:px-12">
+        <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <h2 className="text-center text-3xl md:text-4xl font-heading font-bold text-primary tracking-tight uppercase mb-12">
             OUR DEALERSHIPS
           </h2>
@@ -231,12 +232,12 @@ export default function Home() {
               </a>
             ))}
           </div>
-        </div>
+        </FadeIn>
       </section>
 
       {/* 3. What We Do */}
       <section className="py-12 md:py-16 bg-white border-b border-border/50">
-        <div className="w-full px-4 sm:px-6 lg:px-12">
+        <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
               What We Do ?
@@ -288,12 +289,12 @@ export default function Home() {
               </article>
             ))}
           </div>
-        </div>
+        </FadeIn>
       </section>
 
       {/* 4. About Regent Group */}
       <section id="about-us" className="py-12 md:py-16 bg-slate-50 border-b border-border/50" style={{ scrollMarginTop: "100px" }}>
-        <div className="w-full px-4 sm:px-6 lg:px-12">
+        <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start">
 
             {/* Left: Company Story */}
@@ -345,12 +346,12 @@ export default function Home() {
             </div>
 
           </div>
-        </div>
+        </FadeIn>
       </section>
 
       {/* 5. Why Regent Group */}
       <section className="py-8 md:py-12 bg-white border-b border-border/50">
-        <div className="w-full px-4 sm:px-6 lg:px-12">
+        <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
               Why Regent ?
@@ -392,12 +393,12 @@ export default function Home() {
               </div>
             ))}
           </div>
-        </div>
+        </FadeIn>
       </section>
 
       {/* 6. Corporate Leadership (Principals) */}
       <section className="py-12 md:py-16 bg-white relative border-b border-border/50">
-        <div className="w-full px-2 sm:px-4 lg:px-12">
+        <FadeIn className="w-full px-2 sm:px-4 lg:px-12">
           <div className="text-center max-w-1xl mx-auto mb-12">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary uppercase tracking-widest mb-6">
               Our Leadership
@@ -426,12 +427,12 @@ export default function Home() {
               </div>
             ))}
           </div>
-        </div>
+        </FadeIn>
       </section>
 
       {/* Book Test Drive Section */}
       <section className="py-8 md:py-12 bg-[#0F172A] border-b border-white/10">
-        <div className="w-full px-4 sm:px-6 lg:px-12">
+        <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center mb-8">
             <h3 className="text-[#D4AF37] text-xs uppercase tracking-widest mb-3 font-semibold">
               Quick Inquiry
@@ -490,7 +491,7 @@ export default function Home() {
               </button>
             </form>
           </div>
-        </div>
+        </FadeIn>
       </section>
     </div>
   );

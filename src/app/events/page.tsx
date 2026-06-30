@@ -93,7 +93,7 @@ export default function EventsPage() {
             <Breadcrumb items={[{ label: "Events" }]} />
           </div>
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold text-white mb-6 tracking-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-5xl font-heading font-bold text-white mb-6 tracking-tight">
               Corporate Events & Showcases
             </h1>
             <div className="w-20 h-1 bg-[#D4AF37] mb-6"></div>
