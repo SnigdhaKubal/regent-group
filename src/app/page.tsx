@@ -173,7 +173,7 @@ export default function Home() {
       </section>
 
       {/* Trust Statistics Section */}
-      <section className="py-12 md:py-16 bg-white border-b border-border/50 relative z-10">
+      <section className="py-12 md:py-16 bg-background border-b border-border relative z-10">
         <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6">
@@ -194,7 +194,7 @@ export default function Home() {
             ].map((stat, i) => (
               <div
                 key={i}
-                className="group flex flex-col items-center justify-center p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-accent/30 hover:shadow-md hover:bg-white transition-all duration-300"
+                className="group flex flex-col items-center justify-center p-8 bg-card border border-border rounded-2xl hover:border-accent/30 hover:shadow-md hover:bg-background transition-all duration-300"
               >
                 <div className="text-4xl md:text-5xl font-heading font-bold text-accent mb-3 group-hover:scale-105 transition-transform duration-300">
                   {stat.number}
@@ -209,7 +209,7 @@ export default function Home() {
       </section>
 
       {/* 2. Interactive Brand Dealerships Banner */}
-      <section id="brands" className="py-12 bg-muted/30 border-y border-border/50">
+      <section id="brands" className="py-12 bg-muted border-y border-border">
         <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <h2 className="text-center text-3xl md:text-4xl font-heading font-bold text-primary tracking-tight uppercase mb-12">
             OUR DEALERSHIPS
@@ -236,7 +236,7 @@ export default function Home() {
       </section>
 
       {/* 3. What We Do */}
-      <section className="py-12 md:py-16 bg-white border-b border-border/50">
+      <section className="py-12 md:py-16 bg-background border-b border-border">
         <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
@@ -274,9 +274,9 @@ export default function Home() {
             ].map((service, i) => (
               <article
                 key={i}
-                className="group flex flex-col bg-white border border-slate-200 hover:border-slate-300 rounded-xl p-8 shadow-sm hover:shadow-md transition-all duration-300"
+                className="group flex flex-col bg-card border border-border hover:border-border/80 rounded-xl p-8 shadow-sm hover:shadow-md transition-all duration-300"
               >
-                <div className="h-12 w-12 rounded-lg bg-slate-50 border border-slate-100 flex items-center justify-center text-primary mb-6 group-hover:bg-primary group-hover:text-white transition-all duration-300">
+                <div className="h-12 w-12 rounded-lg bg-muted border border-border/50 flex items-center justify-center text-primary mb-6 group-hover:bg-primary group-hover:text-white transition-all duration-300">
                   <service.icon className="h-6 w-6" />
                 </div>
                 <h3 className="text-xl font-heading font-bold text-primary mb-3">
@@ -293,7 +293,7 @@ export default function Home() {
       </section>
 
       {/* 4. About Regent Group */}
-      <section id="about-us" className="py-12 md:py-16 bg-slate-50 border-b border-border/50" style={{ scrollMarginTop: "100px" }}>
+      <section id="about-us" className="py-12 md:py-16 bg-muted border-b border-border" style={{ scrollMarginTop: "100px" }}>
         <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start">
 
@@ -317,7 +317,7 @@ export default function Home() {
             </div>
 
             {/* Right: Key Milestones Timeline */}
-            <div className="flex flex-col bg-white p-10 rounded-2xl shadow-sm border border-border/50">
+            <div className="flex flex-col bg-card p-10 rounded-2xl shadow-sm border border-border">
               <h3 className="text-2xl font-heading font-bold text-primary mb-10">
                 Key Milestones
               </h3>
@@ -350,7 +350,7 @@ export default function Home() {
       </section>
 
       {/* 5. Why Regent Group */}
-      <section className="py-8 md:py-12 bg-white border-b border-border/50">
+      <section className="py-8 md:py-12 bg-background border-b border-border">
         <FadeIn className="w-full px-4 sm:px-6 lg:px-12">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-6 tracking-tight">
@@ -379,9 +379,9 @@ export default function Home() {
             ].map((feature, i) => (
               <div
                 key={i}
-                className="flex flex-col bg-slate-50 border border-slate-100 rounded-xl p-8 hover:border-slate-200 transition-colors duration-300"
+                className="flex flex-col bg-card border border-border rounded-xl p-8 hover:border-border/80 transition-colors duration-300"
               >
-                <div className="h-14 w-14 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-primary mb-6">
+                <div className="h-14 w-14 rounded-lg bg-background border border-border shadow-sm flex items-center justify-center text-primary mb-6">
                   <feature.icon className="h-7 w-7 text-accent" />
                 </div>
                 <h3 className="text-xl font-heading font-bold text-primary mb-4">
@@ -397,7 +397,7 @@ export default function Home() {
       </section>
 
       {/* 6. Corporate Leadership (Principals) */}
-      <section className="py-12 md:py-16 bg-white relative border-b border-border/50">
+      <section className="py-12 md:py-16 bg-background relative border-b border-border">
         <FadeIn className="w-full px-2 sm:px-4 lg:px-12">
           <div className="text-center max-w-1xl mx-auto mb-12">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary uppercase tracking-widest mb-6">
@@ -415,7 +415,7 @@ export default function Home() {
               { name: "Jayesh Parikh", title: "Group CFO", img: "/jayeshParikh.png" }
             ].map((principal, i) => (
               <div key={i} className="flex flex-col items-center text-center group">
-                <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden mb-5 border-4 border-slate-100 group-hover:border-accent group-hover:shadow-lg transition-all duration-300">
+                <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden mb-5 border-4 border-border group-hover:border-accent group-hover:shadow-lg transition-all duration-300">
                   <img
                     src={principal.img}
                     alt={principal.name}

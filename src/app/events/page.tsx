@@ -84,7 +84,7 @@ export default function EventsPage() {
   }, [lightboxIndex]);
 
   return (
-    <main className="flex min-h-screen flex-col bg-white">
+    <main className="flex min-h-screen flex-col bg-background">
       {/* Premium Corporate Header */}
       <section className="relative bg-[#0F172A] py-12 sm:py-16 overflow-hidden">
         <div className="absolute inset-0 opacity-10 bg-slate-800" />
@@ -146,7 +146,7 @@ export default function EventsPage() {
                   {currentImages.length} photos available
                 </p>
               </div>
-              
+
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                 {currentImages.map((img, i) => (
                   <div
@@ -188,14 +188,14 @@ export default function EventsPage() {
           >
             <X className="h-8 w-8" />
           </button>
-          
+
           <button
             onClick={(e) => { e.stopPropagation(); prevImage(); }}
             className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 text-white/60 hover:text-white z-10 p-2"
           >
             <ChevronLeft className="h-10 w-10" />
           </button>
-          
+
           <div
             className="max-w-5xl max-h-[85vh] w-full flex items-center justify-center"
             onClick={(e) => e.stopPropagation()}
@@ -206,14 +206,14 @@ export default function EventsPage() {
               className="max-w-full max-h-[85vh] object-contain rounded-xl shadow-2xl"
             />
           </div>
-          
+
           <button
             onClick={(e) => { e.stopPropagation(); nextImage(); }}
             className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 text-white/60 hover:text-white z-10 p-2"
           >
             <ChevronRight className="h-10 w-10" />
           </button>
-          
+
           <div className="absolute bottom-5 left-1/2 -translate-x-1/2 bg-black/50 text-white/80 text-sm px-4 py-1.5 rounded-full">
             {lightboxIndex + 1} / {currentImages.length}
           </div>

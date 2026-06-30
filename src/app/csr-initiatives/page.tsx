@@ -31,7 +31,7 @@ export default function CSRPage() {
       </section>
 
       {/* Main Content */}
-      <section className="py-16 md:py-24 bg-white">
+      <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
 
@@ -71,10 +71,10 @@ export default function CSRPage() {
             </div>
 
             <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl bg-slate-200">
-              <Image 
-                src="/CSR.webp" 
-                alt="Meera Hospital, Ulhasnagar" 
-                fill 
+              <Image
+                src="/CSR.webp"
+                alt="Meera Hospital, Ulhasnagar"
+                fill
                 className="object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0F172A]/80 to-transparent flex items-end p-8 z-20">

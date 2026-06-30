@@ -36,13 +36,13 @@ const locations = [
     city: "Thane",
     address: "Plot No 1/B32, Road No. 21, behind Zydus Pharmaceuticals, Wagle Estate, Neheru Nagar, Wagle Industrial Estate, Thane West, Thane, Maharashtra 400604",
     mapLink: "https://www.google.com/maps/place/Regent+Skoda+Service+Centre/data=!4m2!3m1!1s0x0:0x539ee036dc171874?sa=X",
-    iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929199.014239662!2d70.54086149375003!3d19.196651299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b9f4eca2be15%3A0x539ee036dc171874!2sRegent%20%C5%A0koda%20Service%20Centre!5e0!3m2!1sen!2sus!4v1782729375979!5m2!1sen!2sus" 
+    iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929199.014239662!2d70.54086149375003!3d19.196651299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b9f4eca2be15%3A0x539ee036dc171874!2sRegent%20%C5%A0koda%20Service%20Centre!5e0!3m2!1sen!2sus!4v1782729375979!5m2!1sen!2sus"
   },
-  { 
+  {
     city: "Kandivali",
     address: "No 144, Kandivali Industrial Estate, near Ganesh Hotel, Hindustan Naka, Kandivali, Mumbai, Maharashtra 400067",
     mapLink: "https://www.google.com/maps/place/Regent+Skoda+Service+Centre/data=!4m2!3m1!1s0x0:0x7bd89f153104ba75?sa=X",
-    iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929199.014239662!2d70.54086149375003!3d19.196651299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b75496bdfbcd%3A0x7bd89f153104ba75!2sRegent%20%C5%A0koda%20Service%20Centre!5e0!3m2!1sen!2sus!4v1782729418405!5m2!1sen!2sus" 
+    iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929199.014239662!2d70.54086149375003!3d19.196651299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b75496bdfbcd%3A0x7bd89f153104ba75!2sRegent%20%C5%A0koda%20Service%20Centre!5e0!3m2!1sen!2sus!4v1782729418405!5m2!1sen!2sus"
   },
   {
     city: "Kalyan",
@@ -99,7 +99,7 @@ export default function ServiceTouchPointsPage() {
       </section>
 
       {/* Locations Grid */}
-      <section className="py-16 md:py-24 bg-white">
+      <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
 
           <div className="space-y-8">

@@ -42,7 +42,7 @@ export default function ContactUsPage() {
                   {/* Thane Office */}
                   <div className="flex flex-col gap-4">
                     <div className="flex gap-4">
-                      <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                      <div className="h-12 w-12 rounded-lg bg-background border border-border shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
                         <MapPin className="h-6 w-6" />
                       </div>
                       <div>
@@ -63,7 +63,7 @@ export default function ContactUsPage() {
                   {/* Navi Mumbai Office */}
                   <div className="flex flex-col gap-4">
                     <div className="flex gap-4">
-                      <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                      <div className="h-12 w-12 rounded-lg bg-background border border-border shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
                         <MapPin className="h-6 w-6" />
                       </div>
                       <div>
@@ -92,7 +92,7 @@ export default function ContactUsPage() {
 
                 <div className="space-y-6">
                   <div className="flex gap-4 items-center">
-                    <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                    <div className="h-12 w-12 rounded-lg bg-background border border-border shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
                       <Phone className="h-6 w-6" />
                     </div>
                     <div>
@@ -103,7 +103,7 @@ export default function ContactUsPage() {
                   </div>
 
                   <div className="flex gap-4 items-center">
-                    <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                    <div className="h-12 w-12 rounded-lg bg-background border border-border shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
                       <Mail className="h-6 w-6" />
                     </div>
                     <div>
@@ -114,7 +114,7 @@ export default function ContactUsPage() {
                   </div>
 
                   <div className="flex gap-4 items-center">
-                    <div className="h-12 w-12 rounded-lg bg-white border border-slate-200 shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
+                    <div className="h-12 w-12 rounded-lg bg-background border border-border shadow-sm flex items-center justify-center text-[#D4AF37] shrink-0">
                       <Clock className="h-6 w-6" />
                     </div>
                     <div>
@@ -127,7 +127,7 @@ export default function ContactUsPage() {
             </div>
 
             {/* Right Column: Corporate Contact Form */}
-            <div className="bg-white p-8 md:p-12 rounded-2xl shadow-sm border border-slate-200">
+            <div className="bg-card p-8 md:p-12 rounded-2xl shadow-sm border border-border">
               <h2 className="text-2xl font-heading font-bold text-[#0F172A] mb-2">Send us a Message</h2>
               <p className="text-slate-500 mb-8">Our executive team will respond to your inquiry promptly.</p>
 
@@ -135,22 +135,22 @@ export default function ContactUsPage() {
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label htmlFor="firstName" className="text-sm font-semibold text-[#0F172A]">First Name</label>
-                    <input type="text" id="firstName" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-slate-50 focus:bg-white" placeholder="John" />
+                    <input type="text" id="firstName" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="John" />
                   </div>
                   <div className="space-y-2">
                     <label htmlFor="lastName" className="text-sm font-semibold text-[#0F172A]">Last Name</label>
-                    <input type="text" id="lastName" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-slate-50 focus:bg-white" placeholder="Doe" />
+                    <input type="text" id="lastName" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="Doe" />
                   </div>
                 </div>
 
                 <div className="space-y-2">
                   <label htmlFor="email" className="text-sm font-semibold text-[#0F172A]">Corporate Email</label>
-                  <input type="email" id="email" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-slate-50 focus:bg-white" placeholder="john.doe@company.com" />
+                  <input type="email" id="email" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background" placeholder="john.doe@company.com" />
                 </div>
 
                 <div className="space-y-2">
                   <label htmlFor="subject" className="text-sm font-semibold text-[#0F172A]">Inquiry Type</label>
-                  <select id="subject" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-slate-50 focus:bg-white">
+                  <select id="subject" className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background">
                     <option>General Inquiry</option>
                     <option>Vehicle Sales</option>
                     <option>Service & Maintenance</option>
@@ -161,7 +161,7 @@ export default function ContactUsPage() {
 
                 <div className="space-y-2">
                   <label htmlFor="message" className="text-sm font-semibold text-[#0F172A]">Message</label>
-                  <textarea id="message" rows={5} className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-slate-50 focus:bg-white resize-none" placeholder="How can we help you?"></textarea>
+                  <textarea id="message" rows={5} className="w-full px-4 py-3 rounded-lg border border-border focus:border-[#D4AF37] focus:ring-1 focus:ring-[#D4AF37] outline-none transition-all bg-muted focus:bg-background resize-none" placeholder="How can we help you?"></textarea>
                 </div>
 
                 <button type="button" className="w-full bg-[#0F172A] hover:bg-[#1E293B] text-white font-bold py-4 rounded-lg transition-colors">
