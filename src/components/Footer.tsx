@@ -108,11 +108,13 @@ export function Footer() {
                   { name: "Facebook", href: "https://www.facebook.com/profile.php?id=81559836466225" },
                   { name: "YouTube", href: "https://www.youtube.com/@regentgrouporg" }
                 ].map((item) => (
-                  <li key={item.name} className="flex justify-between items-center group border-b border-dashed border-white/10 pb-3">
-                    <a href={item.href} className="text-slate-300 text-sm group-hover:text-[#D4AF37] transition-colors">
-                      {item.name}
+                  <li key={item.name} className="border-b border-dashed border-white/10 pb-3">
+                    <a href={item.href} target="_blank" rel="noopener noreferrer" className="flex justify-between items-center group">
+                      <span className="text-slate-300 text-sm group-hover:text-[#D4AF37] transition-colors">
+                        {item.name}
+                      </span>
+                      <ArrowUpRight className="h-4 w-4 text-slate-500 group-hover:text-[#D4AF37] transition-colors" />
                     </a>
-                    <ArrowUpRight className="h-4 w-4 text-slate-500 group-hover:text-[#D4AF37] transition-colors" />
                   </li>
                 ))}
               </ul>
