@@ -269,7 +269,7 @@ export default function Home() {
                 title: "Customer Experience Management",
                 desc: "Crafting memorable journeys and fostering lifelong loyalty for every client.",
                 icon: Users,
-                link: "#about-us"
+                link: "/about-us"
               }
             ].map((service, i) => (
               <article
@@ -313,7 +313,12 @@ export default function Home() {
                 </p>
               </div>
 
-
+                <div className="mt-8">
+                  <Link href="/about-us" className="inline-flex items-center gap-2 rounded-full bg-[#0F172A] px-6 py-3 text-sm font-semibold text-white transition-all hover:bg-[#D4AF37] hover:text-[#0F172A]">
+                    Read Full Story
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                  </Link>
+                </div>
             </div>
 
             {/* Right: Key Milestones Timeline */}
