@@ -22,7 +22,7 @@ export default function AboutUsPage() {
       {/* Hero Section */}
       <section className="relative flex flex-col justify-center py-12 md:py-16 bg-[#0F172A] overflow-hidden">
         {/* Subtle background image overlay */}
-        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center" />
+        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center" />
         
         <div className="container relative z-10 mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
           <div className="mb-6 opacity-70 hover:opacity-100 transition-opacity [&_nav]:text-slate-300 [&_a:hover]:text-[#D4AF37] [&_span[aria-current]]:text-white">

@@ -13,7 +13,7 @@ export default function CSRPage() {
     <main className="flex min-h-screen flex-col bg-slate-50">
       {/* Corporate Hero */}
       <section className="relative bg-[#0F172A] py-12 sm:py-16 overflow-hidden">
-        <div className="absolute inset-0 opacity-10 bg-slate-800" />
+        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center" />
         <div className="container relative z-10 mx-auto px-2 sm:px-4 lg:px-8">
           <div className="mb-6">
             <Breadcrumb items={[{ label: "Events" }]} />

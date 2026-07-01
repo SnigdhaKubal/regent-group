@@ -1,23 +1,38 @@
 import Link from "next/link";
 import { MapPin } from "lucide-react";
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { FadeIn } from "@/components/FadeIn";
 
 export default function TouchPointsPage() {
   return (
-    <div className="container mx-auto px-4 py-12 max-w-5xl flex flex-col items-center">
-      <div className="w-full flex justify-start mb-4">
-        <Breadcrumb items={[{ label: "Touch Points" }]} />
-      </div>
-      <div className="text-center mb-16">
-        <h1 className="text-4xl md:text-5xl font-heading font-bold text-primary mb-4">
-          Find Your Nearest Touch Point
-        </h1>
-        <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-          Whether you are looking to purchase a new premium vehicle or need expert servicing for your current one, locate our dedicated facilities below.
-        </p>
-      </div>
+    <main className="flex min-h-screen flex-col bg-background">
+      {/* Hero Section */}
+      <section className="relative flex flex-col justify-center py-12 md:py-16 bg-[#0F172A] overflow-hidden">
+        {/* Subtle background image overlay */}
+        <div className="absolute inset-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center" />
+        
+        <div className="container relative z-10 mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+          <div className="mb-6 opacity-70 hover:opacity-100 transition-opacity [&_nav]:text-slate-300 [&_a:hover]:text-[#D4AF37] [&_span[aria-current]]:text-white">
+            <Breadcrumb items={[{ label: "Touch Points" }]} />
+          </div>
+          <FadeIn>
+            <h3 className="text-[#D4AF37] text-sm uppercase tracking-[0.2em] mb-4 font-semibold">
+              Locations
+            </h3>
+            <h1 className="text-white text-4xl md:text-5xl lg:text-6xl font-heading font-bold mb-6 tracking-tight">
+              Find Your Nearest Touch Point
+            </h1>
+            <div className="w-20 h-1 bg-[#D4AF37] mb-8"></div>
+            <p className="text-lg md:text-xl text-slate-300 max-w-3xl leading-relaxed">
+              Whether you are looking to purchase a new premium vehicle or need expert servicing for your current one, locate our dedicated facilities below.
+            </p>
+          </FadeIn>
+        </div>
+      </section>
 
-      <div className="grid md:grid-cols-2 gap-8 w-full">
+      <section className="py-16 md:py-24 bg-white relative">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-5xl flex flex-col items-center">
+          <div className="grid md:grid-cols-2 gap-8 w-full">
         {/* Sales Touch Point Card */}
         <div className="group relative rounded-2xl border bg-card p-8 shadow-sm transition-all hover:shadow-md border-border/50 hover:border-accent/50 flex flex-col items-center text-center">
           <div className="mb-6 rounded-full bg-primary/5 p-4 text-primary group-hover:bg-accent/10 group-hover:text-accent transition-colors">
@@ -55,7 +70,9 @@ export default function TouchPointsPage() {
             <span className="sr-only">Go to Service touch point</span>
           </Link>
         </div>
-      </div>
-    </div>
+        </div>
+        </div>
+      </section>
+    </main>
   );
 }

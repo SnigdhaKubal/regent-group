@@ -90,7 +90,7 @@ export default function EventsPage() {
     <main className="flex min-h-screen flex-col bg-background">
       {/* Premium Corporate Header */}
       <section className="relative bg-[#0F172A] py-12 sm:py-16 overflow-hidden">
-        <div className="absolute inset-0 opacity-10 bg-slate-800" />
+        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center" />
         <div className="container relative z-10 mx-auto px-2 sm:px-4 lg:px-8">
           <div className="mb-6">
             <Breadcrumb items={[{ label: "Events" }]} />
