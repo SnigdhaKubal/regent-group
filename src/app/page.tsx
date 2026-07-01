@@ -66,7 +66,7 @@ const heroSlides = [
 
 const brands = [
   { name: "Honda", url: "http://www.regenthonda.co.in", logo: "/regentHonda.webp" },
-  { name: "MG", url: "https://www.mgthane.co.in", logo: "/morrisGarages.png" },
+  { name: "MG", url: "https://www.mgmotor.co.in/", logo: "/morrisGarages.png" },
   { name: "Skoda", url: "http://www.regentskoda.com", logo: "/regentSkoda.png" },
   { name: "Toyota", url: "http://www.regenttoyota.com", logo: "/regentToyota" },
   { name: "MG Select", url: "https://www.mgselect.co.in/", logo: "/select.png" },
