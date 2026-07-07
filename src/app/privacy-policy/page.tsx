@@ -76,7 +76,7 @@ export default function PrivacyPolicyPage() {
               <ul className="list-disc list-inside space-y-2 ml-4">
                 <li>Access your personal data.</li>
                 <li>Request rectification of inaccurate or incomplete data.</li>
-                <li>Request erasure of your personal data ("right to be forgotten").</li>
+                <li>Request erasure of your personal data (&quot;right to be forgotten&quot;).</li>
                 <li>Object to the processing of your data.</li>
                 <li>Request the restriction of processing your data.</li>
                 <li>Request data portability.</li>

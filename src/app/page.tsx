@@ -1,9 +1,9 @@
 "use client";
 
-import Image from "next/image";
+/* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { useState, useEffect } from "react";
-import { ChevronLeft, ChevronRight, MapPin, Car, Handshake, Users, ArrowRight, Briefcase, ShieldCheck, Target } from "lucide-react";
+import { ChevronLeft, ChevronRight, MapPin, Car, Handshake, Users, Briefcase, ShieldCheck, Target } from "lucide-react";
 import { FadeIn } from "@/components/FadeIn";
 import { AnimatedNumber } from "@/components/AnimatedNumber";
 
@@ -182,7 +182,7 @@ export default function Home() {
             </h2>
             <div className="w-16 h-1 bg-accent mx-auto mb-6"></div>
             <p className="text-lg text-slate-600 leading-relaxed">
-              For over two decades, Regent Group has grown from a single showroom to a premier automotive retail powerhouse. Our unwavering commitment to operational excellence and customer satisfaction has made us the partner of choice for the world's most respected automotive manufacturers.
+              For over two decades, Regent Group has grown from a single showroom to a premier automotive retail powerhouse. Our unwavering commitment to operational excellence and customer satisfaction has made us the partner of choice for the world&apos;s most respected automotive manufacturers.
             </p>
           </div>
 
@@ -307,7 +307,7 @@ export default function Home() {
 
               <div className="space-y-6 text-slate-600 font-sans text-lg leading-relaxed mb-10">
                 <p>
-                  Regent Group was established to redefine automotive retail and customer experience. As a premier automotive dealership network, we operate strategically across the Mumbai and Thane regions, representing some of the world's most trusted manufacturers.
+                  Regent Group was established to redefine automotive retail and customer experience. As a premier automotive dealership network, we operate strategically across the Mumbai and Thane regions, representing some of the world&apos;s most trusted manufacturers.
                 </p>
                 <p>
                   Our foundation is built on operational excellence, integrity, and long-term partnerships. We provide a comprehensive suite of automotive services—from vehicle sales to insurance and specialized after-sales support—ensuring that every client interaction meets the highest standard of professionalism.

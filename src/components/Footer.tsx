@@ -120,7 +120,7 @@ export function Footer() {
               </ul>
               <div className="mt-8 border-l-2 border-[#D4AF37] pl-4">
                 <p className="text-slate-500 text-xs italic font-serif leading-relaxed">
-                  "We don't just sell vehicles. We deliver premium experiences."
+                  &quot;We don&apos;t just sell vehicles. We deliver premium experiences.&quot;
                 </p>
               </div>
             </div>

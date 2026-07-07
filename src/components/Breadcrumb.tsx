@@ -21,7 +21,7 @@ export function Breadcrumb({ items, variant = "dark" }: BreadcrumbProps) {
             <span className="sr-only">Home</span>
           </Link>
         </li>
-        {items.map((item, index) => (
+        {items.map((item) => (
           <li key={item.label} className="flex items-center">
             <ChevronRight className="h-4 w-4 mx-1" />
             {item.href ? (

@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { Wrench, Navigation } from "lucide-react";
+import { Navigation } from "lucide-react";
 import { Breadcrumb } from "@/components/Breadcrumb";
 
 export const metadata: Metadata = {
